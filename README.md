@@ -1,7 +1,7 @@
 #                    || Daniel Santos Oliveira 🙂 ||
 
 Profissional orientado aos negócios com habilidades em: aprendizado da linguagem Java, 
-Python e SQL. conhecimento em lógica de programação e habilidade de resolver problemas.
+Python e SQL. conhecimento em automação(RPA) e habilidade de resolver problemas.
 Comunicação e empatia são os pontos mais fortes do meu perfil profissional.
 
 **Desenvolvedor de software**
