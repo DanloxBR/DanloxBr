@@ -6,9 +6,8 @@ Comunicação e empatia são os pontos mais fortes do meu perfil profissional.
 
 **Desenvolvedor de software**
 
-Profissional orientado aos negócios com aprendizado da linguagem: java,
-Phyton, Sql. Conhecimento em lógica de programação e habilidade de resolver problemas.
-Comunicação e empatia são os pontos mais fortes do meu perfil profissional.
+- Back-End
+- Automação
 
 ### 🤖 Linguagens e Tecnologias
 
