@@ -1,4 +1,4 @@
-#                    || Daniel Santos Oliveira 🙂 ||
+#                    || Daniel Santos Oliveira ||
 
 Profissional orientado aos negócios com habilidades em: aprendizado da linguagem Java, 
 Python e SQL. conhecimento em automação(RPA) e habilidade de resolver problemas.
