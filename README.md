@@ -8,7 +8,8 @@ Comunicação e empatia são os pontos mais fortes do meu perfil profissional.
 
 - Back-End
 - Automação
-
+- Maven
+  
 ### 🤖 Linguagens e Tecnologias
 
   <img 
