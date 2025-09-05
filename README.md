@@ -9,7 +9,7 @@ Comunicação e empatia são os pontos mais fortes do meu perfil profissional.
 - Back-End
 - Automação
 - Maven
-- Conhecimento de bancos de dados
+- Conhecimento em bancos de dados
 - Experiência em desenvolvimento com frameworks como Spring boot
   
 ### 🤖 Linguagens e Tecnologias
