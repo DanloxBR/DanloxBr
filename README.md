@@ -34,7 +34,7 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)] (https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/)  
 📧 **Email:** [danieloliveira.seuemail@gmail.com](mailto:danieloliveira.seuemail@gmail.com)
 ---
 
