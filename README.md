@@ -35,7 +35,6 @@
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/)  
-📧 **Email:** https://mail.google.com/mail/u/0/#inbox
 ---
 
 ✨ “Programar é uma dádiva da inteligência.”
