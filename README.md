@@ -19,8 +19,8 @@
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Projeto RPA**]((https://github.com/DanloxBR/RPA)) – Automação de processos repetitivos usando [tecnologia usada].  
-🔹 [**Projeto Estudos**]((https://github.com/DanloxBR/Estudos)) – Exercícios e práticas de Java, Selenium e testes automatizados.  
+🔹 [**Projeto RPA**](https://github.com/DanloxBR/RPA) – Automação de processos repetitivos usando [tecnologia usada].  
+🔹 [**Projeto Estudos**](https://github.com/DanloxBR/Estudos) – Exercícios e práticas de Java, Selenium e testes automatizados.  
 
 > _Cada repositório tem um README com detalhes de execução, tecnologias usadas e prints do funcionamento._  
 
