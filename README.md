@@ -4,7 +4,7 @@ Profissional orientado aos negócios com habilidades em: aprendizado da linguage
 Python e SQL. conhecimento em automação(RPA) e habilidade de resolver problemas.
 Comunicação e empatia são os pontos mais fortes do meu perfil profissional.
 
-linkedin: https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/   
+LinkedIn: https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/   
 
 **Desenvolvedor de software**
 
