@@ -1,51 +1,43 @@
-#                    || Daniel Santos Oliveira ||       
+# 👋 Olá, eu sou o Daniel Oliveira  
 
-Profissional orientado aos negócios com habilidades em: aprendizado da linguagem Java, 
-Python e SQL. conhecimento em automação(RPA) e habilidade de resolver problemas.
-Comunicação e empatia são os pontos mais fortes do meu perfil profissional.
+💻 Desenvolvedor de Software focado em **Back-end** e **Automação (RPA)**.  
+🎯 Apaixonado por resolver problemas reais através de código limpo e eficiente.  
+🚀 Buscando sempre evoluir em **Java, Python, Spring Boot, SQL e RPA**.  
 
-LinkedIn: https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/   
+---
 
-**Desenvolvedor de software**
+## 🛠️ Tecnologias e Ferramentas
 
-- Back-End
-- Automação
-- Maven
-- Conhecimento em bancos de dados
-- Conhecimento em Spring boot
-  
-### 🤖 Linguagens e Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  <img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-  />
-   <img
-     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="50px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-  />
-  <img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-  />
+---
 
+## 📌 Projetos em Destaque
 
+🔹 [**Projeto RPA**](link_para_repo) – Automação de processos repetitivos usando [tecnologia usada].  
+🔹 [**Projeto Estudos**](link_para_repo) – Exercícios e práticas de Java, Selenium e testes automatizados.  
 
+> _Cada repositório tem um README com detalhes de execução, tecnologias usadas e prints do funcionamento._  
 
+---
 
- 
-    
-          
-                                                                                                                                             
+## 📊 Estatísticas do GitHub
+
+![DanloxBR GitHub stats](https://github-readme-stats.vercel.app/api?username=DanloxBR&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanloxBR&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin/)  
+📧 Email: seuemail@exemplo.com  
+
+---
+
+✨ “Programar é transformar ideias em soluções que fazem a diferença.”
