@@ -39,10 +39,7 @@ Comunicação e empatia são os pontos mais fortes do meu perfil profissional.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
   />
 
-
-
-
-** Linkedin **  
+# Linkedin  
  
  https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/          
           
