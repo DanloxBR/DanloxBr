@@ -42,7 +42,7 @@ Comunicação e empatia são os pontos mais fortes do meu perfil profissional.
 
 
 
-# Linkedin  
+**Linkedin**  
  
  https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/          
           
