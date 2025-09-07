@@ -34,7 +34,7 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/)
+[LinkedIn](https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/)
 📧 Email:(https://mail.google.com/mail/u/0/#inbox)
 
 ---
