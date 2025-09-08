@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Daniel Oliveira  
 
 💻 Desenvolvedor de Software focado em **Back-end** e **Automação (RPA)**.  
-🎯 Apaixonado por resolver problemas reais através de código limpo e eficiente.  
-🚀 Buscando sempre evoluir em **Java, Spring Boot, SQL, Selenium e RPA**.  
+🚀 Buscando sempre evoluir em **Java, Selenium e RPA**.  
 
 ---
 
