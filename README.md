@@ -29,6 +29,10 @@
 
 ---
 
+<img src="https://github.com/user-attachments/assets/598ba9c5-ff99-448e-a4ae-2218488da624" alt="danlox0602" width="400"/>
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/)  
