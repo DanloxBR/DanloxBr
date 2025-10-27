@@ -25,9 +25,9 @@
 ## 📊 Estatísticas do GitHub
 
 ![DanloxBR GitHub stats](https://github-readme-stats.vercel.app/api?username=DanloxBR&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanloxBR&layout=compact&theme=radical)
 
 ---
+## 💻 Perfil
 
 <img src="https://github.com/user-attachments/assets/598ba9c5-ff99-448e-a4ae-2218488da624" alt="danlox0602" width="400"/>
 
