@@ -41,11 +41,11 @@ Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, S
 
 ## 📫 Onde me encontrar
 
-📧 Email: [seuemail@exemplo.com]
+📧 Email: [https://mail.google.com/mail/u/0/#inbox]
 
-💼 LinkedIn: linkedin.com/in/seulinkedin
+💼 LinkedIn: [https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/]
 
-🐙 GitHub: github.com/DanloxBR
+🐙 GitHub: [https://github.com/DanloxBR]
 
 ---
 
