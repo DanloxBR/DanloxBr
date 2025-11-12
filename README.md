@@ -19,6 +19,8 @@
 
 🔹 [**Projeto RPA**](https://github.com/DanloxBR/RPA) – Automação de processos repetitivos usando [tecnologia usada].  
 🔹 [**Projeto Estudos**](https://github.com/DanloxBR/Estudos) – Exercícios e práticas de Java, Selenium e testes automatizados.  
+🔹 [**Projeto API CRUD**](https://github.com/DanloxBR/apicrud) – API REST desenvolvida em Java 8 com Spring Boot, implementando operações CRUD com JPA/Hibernate, validação de dados.
+🔹 [**Projeto API Review Manager**](https://github.com/DanloxBR/apireviewmanager) – Sistema para gerenciamento de avaliações, com autenticação JWT.
 
 ---
 
@@ -33,10 +35,14 @@
 
 ---
 
-## 📫 Contato
+## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/)  
+📧 Email: [seuemail@exemplo.com]
+
+💼 LinkedIn: linkedin.com/in/seulinkedin
+
+🐙 GitHub: github.com/DanloxBR
 
 ---
 
-✨ “Programar é uma dádiva da inteligência.”
+## ✨ “Programar é uma dádiva da inteligência.”
