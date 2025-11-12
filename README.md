@@ -41,7 +41,7 @@ Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, S
 
 ## 📫 Onde me encontrar
 
-📧 Email: [https://mail.google.com/mail/u/0/#inbox]
+📧 Email: [danlox0602@gmail.com]
 
 💼 LinkedIn: [https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/]
 
