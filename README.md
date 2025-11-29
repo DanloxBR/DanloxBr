@@ -26,6 +26,8 @@ Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, S
 
 🔹 [**Projeto API Review Manager**](https://github.com/DanloxBR/apireviewmanager) – Sistema para gerenciamento de avaliações, com autenticação JWT.
 
+🔹 [**Projeto Sudoku**](https://github.com/DanloxBR/Sudoku) - projeto com validação de regras, modelagem de classes e UI básica em Swing.
+
 ---
 
 ## 📊 Estatísticas do GitHub
