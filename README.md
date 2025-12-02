@@ -41,8 +41,6 @@ Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, S
 
 💼 LinkedIn: [https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/]
 
-🐙 GitHub: [https://github.com/DanloxBR]
-
 ---
 
 ## ✨ “Programar é uma dádiva da inteligência.”
