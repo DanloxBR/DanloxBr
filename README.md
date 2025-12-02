@@ -29,12 +29,6 @@ Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, S
 🔹 [**Projeto Sudoku**](https://github.com/DanloxBR/Sudoku) - projeto com validação de regras, modelagem de classes e UI básica em Swing.
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-![DanloxBR GitHub stats](https://github-readme-stats.vercel.app/api?username=DanloxBR&show_icons=true&theme=radical)  
-
----
 ## 💻 Perfil
 
 <img src="https://github.com/user-attachments/assets/598ba9c5-ff99-448e-a4ae-2218488da624" alt="danlox0602" width="400"/>
