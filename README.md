@@ -18,7 +18,6 @@ Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, S
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA-0A66C2?style=for-the-badge&logo=robotframework&logoColor=white)
-![CSV](https://github.com/DanloxBR/csv)
 
 
 
@@ -27,7 +26,7 @@ Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, S
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Projeto RPA**](https://github.com/DanloxBR/RPA) – Automação de processos repetitivos usando [tecnologia usada]. 
+🔹 [**Projeto RPA**](https://github.com/DanloxBR/RPA) – Automação de processos repetitivos usando [JAVA]. 
 
 🔹 [**Projeto Estudos**](https://github.com/DanloxBR/Estudos) – Exercícios e práticas de Java, Selenium e testes automatizados.  
 
@@ -36,6 +35,12 @@ Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, S
 🔹 [**Projeto API Review Manager**](https://github.com/DanloxBR/apireviewmanager) – Sistema para gerenciamento de avaliações, com autenticação JWT.
 
 🔹 [**Projeto Sudoku**](https://github.com/DanloxBR/Sudoku) - projeto com validação de regras, modelagem de classes e UI básica em Swing.
+
+🔹[**Projeto CSV**](https://github.com/DanloxBR/csv)- Automatiza a extração de dados de uma tabela usando Selenium WebDriver e salva esses dados em um arquivo CSV.
+
+🔹[**Projeto Automation**](https://github.com/DanloxBR/automation) - automação de processos em Java, usando Selenium WebDriver para executar fluxos automatizados em páginas web.
+
+🔹[**Projeto RovoValidador**](https://github.com/DanloxBR/robovalidador) - (RPA) em Java, que lê dados de arquivos (.txt / .csv), valida essas informações de forma automática e gera relatórios, reduzindo trabalho manual e erros humanos e aumentando produtividade.
 
 ---
 ## 💻 Perfil
