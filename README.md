@@ -40,7 +40,7 @@ Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, S
 
 🔹[**Projeto Automation**](https://github.com/DanloxBR/automation) - automação de processos em Java, usando Selenium WebDriver para executar fluxos automatizados em páginas web.
 
-🔹[**Projeto RovoValidador**](https://github.com/DanloxBR/robovalidador) - (RPA) em Java, que lê dados de arquivos (.txt / .csv), valida essas informações de forma automática e gera relatórios, reduzindo trabalho manual e erros humanos e aumentando produtividade.
+🔹[**Projeto RoboValidador**](https://github.com/DanloxBR/robovalidador) - (RPA) em Java, que lê dados de arquivos (.txt / .csv), valida essas informações de forma automática e gera relatórios, reduzindo trabalho manual e erros humanos e aumentando produtividade.
 
 ---
 ## 💻 Perfil
