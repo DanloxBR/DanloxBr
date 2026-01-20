@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Daniel Santos Oliveira!
 
-Sou desenvolvedor backend focado em Java e automação de processos (RPA).
-Apaixonado por transformar ideias em soluções funcionais, seguras e escaláveis.
-Atualmente, venho aprimorando minhas habilidades em Spring Boot, APIs RESTful, Selenium e boas práticas de arquitetura.
+**Desenvolvedor Java Jr** com foco em **backend**, **automação de testes** e fundamentos de **frontend**, com experiência prática no desenvolvimento de **APIs REST**, **Java**, **Selenium** e **bancos de dados SQL**. Atuação em projetos próprios aplicando **arquitetura em camadas**, **MVC**, **boas práticas de código** e **versionamento com Git**. Vivência no desenvolvimento de interfaces utilizando **HTML5**, **CSS3** e **JavaScript**, buscando integração eficiente entre frontend e backend. Perfil **proativo**, com **rápido aprendizado** e forte interesse em **qualidade de software**, **testes automatizados** e construção de soluções funcionais e bem estruturadas.
 
 ---
 
