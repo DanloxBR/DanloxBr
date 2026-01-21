@@ -44,6 +44,8 @@
 
 🔹[**Projeto RoboValidador**](https://github.com/DanloxBR/robovalidador) - (RPA) em Java, que lê dados de arquivos (.txt / .csv), valida essas informações de forma automática e gera relatórios, reduzindo trabalho manual e erros humanos e aumentando produtividade.
 
+🔹[**Projeto Controle de Despesas Pessoais**](https://github.com/DanloxBR/finance/tree/main) - Sistema em Java 8 para controle de despesas pessoais, permitindo cadastrar, listar e calcular gastos, com persistência em arquivo e uso de Streams e POO.
+
 ---
 ## 💻 Perfil
 
