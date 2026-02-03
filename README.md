@@ -47,11 +47,6 @@
 🔹[**Projeto Controle de Despesas Pessoais**](https://github.com/DanloxBR/finance/tree/main) - Sistema em Java 8 para controle de despesas pessoais, permitindo cadastrar, listar e calcular gastos, com persistência em arquivo e uso de Streams e POO.
 
 ---
-## 💻 Perfil
-
-<img src="https://github.com/user-attachments/assets/598ba9c5-ff99-448e-a4ae-2218488da624" alt="danlox0602" width="400"/>
-
----
 
 ## 📫 Onde me encontrar
 
@@ -61,5 +56,5 @@
 
 ---
 
-## ✨ “Programar é uma dádiva da inteligência.”
+## “Programar é uma dádiva da inteligência.”
 ---
