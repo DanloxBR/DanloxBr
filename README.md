@@ -2,9 +2,7 @@
 
 **Desenvolvedor Java Jr** com foco em **backend**, **automação de testes** e fundamentos de **frontend**, com experiência prática no desenvolvimento de **APIs REST**, **Java**, **Selenium** e **bancos de dados SQL**. Atuação em projetos próprios aplicando **arquitetura em camadas**, **MVC**, **boas práticas de código** e **versionamento com Git**. Vivência no desenvolvimento de interfaces utilizando **HTML5**, **CSS3** e **JavaScript**, buscando integração eficiente entre frontend e backend. Perfil **proativo**, com **rápido aprendizado** e forte interesse em **qualidade de software**, **testes automatizados** e construção de soluções funcionais e bem estruturadas.
 
----
-
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -17,9 +15,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA-0A66C2?style=for-the-badge&logo=robotframework&logoColor=white)
 
----
-
-## 📌 Projetos em Destaque
+##  Projetos em Destaque
 
 🔹 [**Projeto RPA**](https://github.com/DanloxBR/RPA) – Automação de processos repetitivos usando [JAVA]. 
 
@@ -39,15 +35,11 @@
 
 🔹[**Projeto Controle de Despesas Pessoais**](https://github.com/DanloxBR/finance/tree/main) - Sistema em Java 8 para controle de despesas pessoais, permitindo cadastrar, listar e calcular gastos, com persistência em arquivo e uso de Streams e POO.
 
----
-
-## 📫 Onde me encontrar
+## Onde me encontrar
 
 📧 Email: [danlox0602@gmail.com]
 
 💼 LinkedIn: [https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/]
-
----
 
 ## “Programar é uma dádiva da inteligência.”
 ---
