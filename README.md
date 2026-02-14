@@ -41,4 +41,4 @@
 
 💼 LinkedIn: [https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/]
 
-                                             ## “Programar é uma dádiva da inteligência.”
+                                             ## “Programar é uma dádiva da inteligência.” ##
