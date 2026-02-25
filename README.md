@@ -35,6 +35,8 @@
 
 🔹[**Projeto Controle de Despesas Pessoais**](https://github.com/DanloxBR/finance/tree/main) - Sistema em Java 8 para controle de despesas pessoais, permitindo cadastrar, listar e calcular gastos, com persistência em arquivo e uso de Streams e POO.
 
+🔹[**Projeto EscapeButton**](https://github.com/DanloxBR/EscapeButton) - Projeto em Java aplicando o padrão Listener (Observer), focado em desacoplamento, organização de eventos e boas práticas de arquitetura backend.
+
 ## Onde me encontrar:
 
 📧 Email: [danlox0602@gmail.com]
