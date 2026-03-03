@@ -33,9 +33,11 @@
 
 🔹[**Projeto RoboValidador**](https://github.com/DanloxBR/robovalidador) - (RPA) em Java, que lê dados de arquivos (.txt / .csv), valida essas informações de forma automática e gera relatórios, reduzindo trabalho manual e erros humanos e aumentando produtividade.
 
-🔹[**Projeto Controle de Despesas Pessoais**](https://github.com/DanloxBR/finance/tree/main) - Sistema em Java 8 para controle de despesas pessoais, permitindo cadastrar, listar e calcular gastos, com persistência em arquivo e uso de Streams e POO.
-
 🔹[**Projeto EscapeButton**](https://github.com/DanloxBR/EscapeButton) - Projeto em Java aplicando o padrão Listener (Observer), focado em desacoplamento, organização de eventos e boas práticas de arquitetura backend.
+
+🔹[**Projeto Swing financeiro**](https://github.com/DanloxBR/finance) - Projeto de controle financeiro simples com foco em organizar receitas, despesas e visualizar informações financeiras de forma prática.
+
+🔹[**Projeto Calculadora com Interface**](https://github.com/DanloxBR/Calculadora-) - Projeto desktop desenvolvida em Java com Swing, focada em manipulação de eventos, controle de estado e organização de interface gráfica.
 
 ## Onde me encontrar:
 
