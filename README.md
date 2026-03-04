@@ -19,8 +19,6 @@
 
 🔹 [**Projeto RPA**](https://github.com/DanloxBR/RPA) – Automação de processos repetitivos usando [JAVA]. 
 
-🔹 [**Projeto Estudos**](https://github.com/DanloxBR/Estudos) – Exercícios e práticas de Java, Selenium e testes automatizados.  
-
 🔹 [**Projeto API CRUD**](https://github.com/DanloxBR/apicrud) – API REST desenvolvida em Java 8 com Spring Boot, implementando operações CRUD com JPA/Hibernate.
 
 🔹 [**Projeto API Review Manager**](https://github.com/DanloxBR/apireviewmanager) – Sistema para gerenciamento de avaliações, com autenticação JWT.
@@ -38,6 +36,8 @@
 🔹[**Projeto Swing financeiro**](https://github.com/DanloxBR/finance) - Projeto de controle financeiro simples com foco em organizar receitas, despesas e visualizar informações financeiras de forma prática.
 
 🔹[**Projeto Calculadora com Interface**](https://github.com/DanloxBR/Calculadora-) - Projeto desktop desenvolvida em Java com Swing, focada em manipulação de eventos, controle de estado e organização de interface gráfica.
+
+🔹[**Projeto Frontend/Backend Sistema de Comunicação em Tempo Real**](https://github.com/DanloxBR/chat) - Chat em tempo real com Spring Boot e WebSocket, permitindo troca instantânea de mensagens entre usuários.
 
 ## Onde me encontrar:
 
