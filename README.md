@@ -47,6 +47,4 @@
 
 💼 LinkedIn: [https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/]
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanloxBR&show_icons=true&theme=dark)
-
                                               “Programar é uma dádiva da inteligência.” 
