@@ -39,10 +39,14 @@
 
 🔹[**Projeto Frontend/Backend Sistema de Comunicação em Tempo Real**](https://github.com/DanloxBR/chat) - Chat em tempo real com Spring Boot e WebSocket, permitindo troca instantânea de mensagens entre usuários.
 
+🔹 [**Sistema de Cadastro de Usuários**](https://github.com/DanloxBR/Cadastro) - Aplicação desenvolvida para gerenciamento e cadastro de usuários, permitindo operações básicas de registro e manipulação de dados.  
+
 ## Onde me encontrar:
 
 📧 Email: [danlox0602@gmail.com]
 
 💼 LinkedIn: [https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/]
+
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanloxBR&show_icons=true&theme=dark)
 
                                               “Programar é uma dádiva da inteligência.” 
