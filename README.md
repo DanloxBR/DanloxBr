@@ -108,8 +108,7 @@ Sistema backend completo para gerenciamento de avaliações, com autenticação 
 ## 📫 Contato
 
 📧 **Email:** danlox0602@gmail.com  
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/
+💼 **LinkedIn:** https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/
 
 ---
 
@@ -118,10 +117,3 @@ https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/
 > “Programar é transformar lógica em solução.”
 
 ---
-
-## 🚀 Próximos passos (em evolução)
-
-- Testes automatizados com JUnit e Mockito  
-- Deploy em cloud (AWS)  
-- Containerização com Docker  
-- Monitoramento e logs  
