@@ -1,53 +1,127 @@
-# 👋 Olá, eu sou Daniel Santos Oliveira!
+👋 Olá, eu sou Daniel Santos Oliveira
 
-**Desenvolvedor Java Júnior** com foco em **backend**, **APIs REST** e **automação de testes**. Experiência no desenvolvimento de aplicações utilizando **Java**, **Spring Boot**, **SQL** e **Selenium WebDriver**, aplicando **arquitetura em camadas**, **padrão MVC** e **princípios de Clean Code**. Atuação na criação de **APIs RESTful**, integração com **bancos de dados relacionais**, automação de testes e processos, além de versionamento com **Git/GitHub**. Familiaridade com metodologias ágeis como **Scrum** e **Kanban**, com foco em **qualidade de código**, **escalabilidade e boas práticas de desenvolvimento**.
+💻 Desenvolvedor Java Backend Júnior
+Focado em construção de APIs REST escaláveis, automação de processos e aplicação de boas práticas de desenvolvimento.
 
-##  Tecnologias e Ferramentas:
+Tenho experiência prática com Java + Spring Boot, desenvolvimento de APIs RESTful, integração com bancos de dados relacionais e automação com Selenium WebDriver, sempre aplicando princípios como Clean Code, SOLID e arquitetura em camadas.
 
-![Java](https://img.shields.io/badge/Java%208+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+🚀 🔥 Projeto Principal
+👉 API Review Manager
+
+Sistema backend completo para gerenciamento de avaliações, com autenticação e boas práticas de arquitetura.
+
+💡 Destaques técnicos:
+
+Arquitetura em camadas (Controller, Service, Repository)
+
+Autenticação e autorização com JWT
+
+Integração com banco de dados via JPA/Hibernate
+
+Validações de regras de negócio
+
+Tratamento global de exceções
+
+API REST seguindo boas práticas
+
+📌 Sugestão: adicione aqui um GIF ou print do Swagger (isso aumenta MUITO o impacto)
+
+⚡ Projetos Relevantes
+🤖 Automação e RPA
+
+🔹 Projeto RPA
+
+Automação de processos repetitivos com Java
+
+🔹 RoboValidador
+
+Validação automática de dados (.txt / .csv) com geração de relatórios
+
+🔹 Projeto CSV
+
+Extração automatizada de dados web com Selenium + geração de CSV
+
+🔹 Automation
+
+Execução de fluxos automatizados em aplicações web
+
+🌐 Backend / APIs
+
+🔹 API CRUD
+
+API REST com operações CRUD usando Spring Boot + JPA
+
+🔹 Sistema de Cadastro
+
+Gerenciamento de usuários com persistência em banco de dados
+
+🔹 Chat em Tempo Real
+
+Comunicação em tempo real com WebSocket + Spring Boot
+
+🧠 Lógica e Arquitetura
+
+🔹 Sudoku
+
+Validação de regras e modelagem orientada a objetos
+
+🔹 EscapeButton
+
+Implementação do padrão Observer com foco em desacoplamento
+
+💻 Aplicações Desktop
+
+🔹 Sistema Financeiro
+
+Controle de receitas e despesas
+
+🔹 Calculadora com Interface
+
+Aplicação com foco em eventos e organização de UI
+
+🛠️ Tecnologias e Ferramentas
+Backend
 
 
-##  Projetos em Destaque:
 
-🔹 [**Projeto RPA**](https://github.com/DanloxBR/RPA) – Automação de processos repetitivos usando [JAVA]. 
 
-🔹 [**Projeto API CRUD**](https://github.com/DanloxBR/apicrud) – API REST desenvolvida em Java 8 com Spring Boot, implementando operações CRUD com JPA/Hibernate.
 
-🔹 [**Projeto API Review Manager**](https://github.com/DanloxBR/apireviewmanager) – Sistema para gerenciamento de avaliações, com autenticação JWT.
 
-🔹 [**Projeto Sudoku**](https://github.com/DanloxBR/Sudoku) - projeto com validação de regras, modelagem de classes e UI básica em Swing.
 
-🔹[**Projeto CSV**](https://github.com/DanloxBR/csv)- Automatiza a extração de dados de uma tabela usando Selenium WebDriver e salva esses dados em um arquivo CSV.
 
-🔹[**Projeto Automation**](https://github.com/DanloxBR/automation) - automação de processos em Java, usando Selenium WebDriver para executar fluxos automatizados em páginas web.
+Banco de Dados
 
-🔹[**Projeto RoboValidador**](https://github.com/DanloxBR/robovalidador) - (RPA) em Java, que lê dados de arquivos (.txt / .csv), valida essas informações de forma automática e gera relatórios, reduzindo trabalho manual e erros humanos e aumentando produtividade.
+Automação & Testes
 
-🔹[**Projeto EscapeButton**](https://github.com/DanloxBR/EscapeButton) - Projeto em Java aplicando o padrão Listener (Observer), focado em desacoplamento, organização de eventos e boas práticas de arquitetura backend.
+DevOps & Ferramentas
 
-🔹[**Projeto Swing financeiro**](https://github.com/DanloxBR/finance) - Projeto de controle financeiro simples com foco em organizar receitas, despesas e visualizar informações financeiras de forma prática.
 
-🔹[**Projeto Calculadora com Interface**](https://github.com/DanloxBR/Calculadora-) - Projeto desktop desenvolvida em Java com Swing, focada em manipulação de eventos, controle de estado e organização de interface gráfica.
 
-🔹[**Projeto Frontend/Backend Sistema de Comunicação em Tempo Real**](https://github.com/DanloxBR/chat) - Chat em tempo real com Spring Boot e WebSocket, permitindo troca instantânea de mensagens entre usuários.
 
-🔹 [**Sistema de Cadastro de Usuários**](https://github.com/DanloxBR/Cadastro) - Aplicação desenvolvida para gerenciamento e cadastro de usuários, permitindo operações básicas de registro e manipulação de dados.  
 
-## Onde me encontrar:
 
-📧 Email: [danlox0602@gmail.com]
 
-💼 LinkedIn: [https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/]
 
-                                              “Programar é uma dádiva da inteligência.” 
+Versionamento
+
+
+
+
+📈 Diferenciais
+
+✔ Experiência prática com múltiplos projetos reais
+✔ Forte base em backend com Java e Spring Boot
+✔ Automação de processos (RPA + Selenium)
+✔ Aplicação de boas práticas (Clean Code, SOLID, MVC)
+✔ Evolução contínua e foco em qualidade de código
+
+📫 Contato
+
+📧 Email: danlox0602@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/
+
+💡 Frase que me define
+
+“Programar é transformar lógica em solução.”
