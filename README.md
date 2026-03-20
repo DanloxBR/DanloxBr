@@ -1,4 +1,4 @@
-👋 Olá, eu sou Daniel Santos Oliveira
+**👋 Olá, eu sou Daniel Santos Oliveira**
 
 💻 Desenvolvedor Java Backend Júnior
 Focado em construção de APIs REST escaláveis, automação de processos e aplicação de boas práticas de desenvolvimento.
