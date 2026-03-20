@@ -1,127 +1,130 @@
-**👋 Olá, eu sou Daniel Santos Oliveira**
+# 👋 Olá, eu sou Daniel Santos Oliveira
 
-💻 Desenvolvedor Java Backend Júnior
-Focado em construção de APIs REST escaláveis, automação de processos e aplicação de boas práticas de desenvolvimento.
+💻 **Desenvolvedor Java Backend Júnior**  
+Focado em construção de **APIs REST escaláveis**, **automação de processos** e aplicação de **boas práticas de desenvolvimento**.
 
-Tenho experiência prática com Java + Spring Boot, desenvolvimento de APIs RESTful, integração com bancos de dados relacionais e automação com Selenium WebDriver, sempre aplicando princípios como Clean Code, SOLID e arquitetura em camadas.
+Tenho experiência prática com **Java + Spring Boot**, desenvolvimento de **APIs RESTful**, integração com **bancos de dados relacionais** e automação com **Selenium WebDriver**, sempre aplicando princípios como **Clean Code, SOLID e arquitetura em camadas**.
 
-🚀 🔥 Projeto Principal
-👉 API Review Manager
+---
+
+## 🚀 🔥 Projeto Principal
+
+### 👉 [API Review Manager](https://github.com/DanloxBR/apireviewmanager)
 
 Sistema backend completo para gerenciamento de avaliações, com autenticação e boas práticas de arquitetura.
 
-💡 Destaques técnicos:
+**💡 Destaques técnicos:**
+- Arquitetura em camadas (Controller, Service, Repository)
+- Autenticação e autorização com **JWT**
+- Integração com banco de dados via **JPA/Hibernate**
+- Validações de regras de negócio
+- Tratamento global de exceções
+- API REST seguindo boas práticas
 
-Arquitetura em camadas (Controller, Service, Repository)
+📌 *Sugestão:* adicione aqui um GIF ou print do Swagger
 
-Autenticação e autorização com JWT
+---
 
-Integração com banco de dados via JPA/Hibernate
+## ⚡ Projetos Relevantes
 
-Validações de regras de negócio
+### 🤖 Automação e RPA
+- 🔹 [Projeto RPA](https://github.com/DanloxBR/RPA)  
+  Automação de processos repetitivos com Java
 
-Tratamento global de exceções
+- 🔹 [RoboValidador](https://github.com/DanloxBR/robovalidador)  
+  Validação automática de dados (.txt / .csv) com geração de relatórios
 
-API REST seguindo boas práticas
+- 🔹 [Projeto CSV](https://github.com/DanloxBR/csv)  
+  Extração automatizada de dados web com Selenium + geração de CSV
 
-📌 Sugestão: adicione aqui um GIF ou print do Swagger (isso aumenta MUITO o impacto)
+- 🔹 [Automation](https://github.com/DanloxBR/automation)  
+  Execução de fluxos automatizados em aplicações web
 
-⚡ Projetos Relevantes
-🤖 Automação e RPA
+---
 
-🔹 Projeto RPA
+### 🌐 Backend / APIs
+- 🔹 [API CRUD](https://github.com/DanloxBR/apicrud)  
+  API REST com operações CRUD usando Spring Boot + JPA
 
-Automação de processos repetitivos com Java
+- 🔹 [Sistema de Cadastro](https://github.com/DanloxBR/Cadastro)  
+  Gerenciamento de usuários com persistência em banco de dados
 
-🔹 RoboValidador
+- 🔹 [Chat em Tempo Real](https://github.com/DanloxBR/chat)  
+  Comunicação em tempo real com **WebSocket + Spring Boot**
 
-Validação automática de dados (.txt / .csv) com geração de relatórios
+---
 
-🔹 Projeto CSV
+### 🧠 Lógica e Arquitetura
+- 🔹 [Sudoku](https://github.com/DanloxBR/Sudoku)  
+  Validação de regras e modelagem orientada a objetos
 
-Extração automatizada de dados web com Selenium + geração de CSV
+- 🔹 [EscapeButton](https://github.com/DanloxBR/EscapeButton)  
+  Implementação do padrão **Observer** com foco em desacoplamento
 
-🔹 Automation
+---
 
-Execução de fluxos automatizados em aplicações web
+### 💻 Aplicações Desktop
+- 🔹 [Sistema Financeiro](https://github.com/DanloxBR/finance)  
+  Controle de receitas e despesas
 
-🌐 Backend / APIs
+- 🔹 [Calculadora com Interface](https://github.com/DanloxBR/Calculadora-)  
+  Aplicação com foco em eventos e organização de UI
 
-🔹 API CRUD
+---
 
-API REST com operações CRUD usando Spring Boot + JPA
+## 🛠️ Tecnologias e Ferramentas
 
-🔹 Sistema de Cadastro
+### Backend
+![Java](https://img.shields.io/badge/Java%208+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-Gerenciamento de usuários com persistência em banco de dados
+### Banco de Dados
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🔹 Chat em Tempo Real
+### Automação & Testes
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-Comunicação em tempo real com WebSocket + Spring Boot
+### DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 
-🧠 Lógica e Arquitetura
+### Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🔹 Sudoku
+---
 
-Validação de regras e modelagem orientada a objetos
+## 📈 Diferenciais
 
-🔹 EscapeButton
+✔ Experiência prática com múltiplos projetos reais  
+✔ Forte base em backend com Java e Spring Boot  
+✔ Automação de processos (RPA + Selenium)  
+✔ Aplicação de boas práticas (Clean Code, SOLID, MVC)  
+✔ Evolução contínua e foco em qualidade de código  
 
-Implementação do padrão Observer com foco em desacoplamento
+---
 
-💻 Aplicações Desktop
+## 📫 Contato
 
-🔹 Sistema Financeiro
-
-Controle de receitas e despesas
-
-🔹 Calculadora com Interface
-
-Aplicação com foco em eventos e organização de UI
-
-🛠️ Tecnologias e Ferramentas
-Backend
-
-
-
-
-
-
-
-
-Banco de Dados
-
-Automação & Testes
-
-DevOps & Ferramentas
-
-
-
-
-
-
-
-
-Versionamento
-
-
-
-
-📈 Diferenciais
-
-✔ Experiência prática com múltiplos projetos reais
-✔ Forte base em backend com Java e Spring Boot
-✔ Automação de processos (RPA + Selenium)
-✔ Aplicação de boas práticas (Clean Code, SOLID, MVC)
-✔ Evolução contínua e foco em qualidade de código
-
-📫 Contato
-
-📧 Email: danlox0602@gmail.com
-
-💼 LinkedIn:
+📧 **Email:** danlox0602@gmail.com  
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/
 
-💡 Frase que me define
+---
 
-“Programar é transformar lógica em solução.”
+## 💡 Frase que me define
+
+> “Programar é transformar lógica em solução.”
+
+---
+
+## 🚀 Próximos passos (em evolução)
+
+- Testes automatizados com JUnit e Mockito  
+- Deploy em cloud (AWS)  
+- Containerização com Docker  
+- Monitoramento e logs  
