@@ -114,6 +114,6 @@ Sistema backend completo para gerenciamento de avaliações, com autenticação 
 
 ## 💡 Frase que me define
 
-> “Programar é transformar lógica em solução.”
+**“Programar é uma dádiva da inteligência.”**
 
 ---
