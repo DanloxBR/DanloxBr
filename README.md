@@ -31,7 +31,7 @@ Sistema backend completo para gerenciamento de avaliações, com autenticação 
 - 🔹 [RoboValidador](https://github.com/DanloxBR/robovalidador)  
   Validação automática de dados (.txt / .csv) com geração de relatórios
 
-- 🔹 [Projeto CSV](https://github.com/DanloxBR/csv)  
+- 🔹 [CSV Selenium Automation](https://github.com/DanloxBR/csv)  
   Extração automatizada de dados web com Selenium + geração de CSV
 
 - 🔹 [Automation](https://github.com/DanloxBR/automation)  
