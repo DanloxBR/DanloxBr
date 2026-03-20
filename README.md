@@ -20,9 +20,6 @@ Sistema backend completo para gerenciamento de avaliações, com autenticação 
 - Validações de regras de negócio
 - Tratamento global de exceções
 - API REST seguindo boas práticas
-
-📌 *Sugestão:* adicione aqui um GIF ou print do Swagger
-
 ---
 
 ## ⚡ Projetos Relevantes
