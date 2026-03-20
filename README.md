@@ -25,7 +25,7 @@ Sistema backend completo para gerenciamento de avaliações, com autenticação 
 ## ⚡ Projetos Relevantes
 
 ### 🤖 Automação e RPA
-- 🔹 [Projeto RPA](https://github.com/DanloxBR/RPA)  
+- 🔹 [Automação/RPA](https://github.com/DanloxBR/RPA)  
   Automação de processos repetitivos com Java
 
 - 🔹 [RoboValidador](https://github.com/DanloxBR/robovalidador)  
