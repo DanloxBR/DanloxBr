@@ -3,7 +3,10 @@
 💻 **Desenvolvedor Java Backend Júnior**  
 Focado em construção de **APIs REST escaláveis**, **automação de processos** e aplicação de **boas práticas de desenvolvimento**.
 
-Tenho experiência prática com **Java + Spring Boot**, desenvolvimento de **APIs RESTful**, integração com **bancos de dados relacionais** e automação com **Selenium WebDriver**, sempre aplicando princípios como **Clean Code, SOLID e arquitetura em camadas**.
+Desenvolvedor Backend Java com experiência prática em ambiente produtivo, atuando no desenvolvimento e manutenção de APIs REST com Spring Boot, com foco em performance, escalabilidade e qualidade de código.
+Experiência com microsserviços, mensageria com Apache Kafka e arquitetura multi-tenant, garantindo isolamento de dados e suporte a múltiplos clientes.
+Atuação direta em resolução de incidentes críticos em produção, análise de logs, troubleshooting e otimização de queries SQL, contribuindo para estabilidade e melhoria contínua dos sistemas.
+
 
 ---
 
