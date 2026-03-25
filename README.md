@@ -9,7 +9,7 @@ Desenvolvedor Backend Java com experiência prática em ambiente produtivo, atua
 
 ## 🚀 Projeto Principal
 
-### **API Review Manager**
+### **[API Review Manager](https://github.com/DanloxBR/apireviewmanager)**
 Backend completo para gerenciamento de avaliações, com **autenticação** e **boas práticas de arquitetura**.
 
 **Destaques técnicos:**  
@@ -25,24 +25,24 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 ## ⚡ Projetos Relevantes
 
 ### 🤖 Automação e RPA
-- **Automação/RPA:** Automação de processos repetitivos com Java  
-- **RoboValidador:** Validação automática de dados (.txt / .csv) com geração de relatórios  
-- **CSV Selenium Automation:** Extração automatizada de dados web com Selenium + geração de CSV  
-- **Automation:** Execução de fluxos automatizados em aplicações web  
+- **[Automação/RPA](https://github.com/DanloxBR/automacao-rpa):** Automação de processos repetitivos com Java  
+- **[RoboValidador](https://github.com/DanloxBR/robovalidador):** Validação automática de dados (.txt / .csv) com geração de relatórios  
+- **[CSV Selenium Automation](https://github.com/DanloxBR/csv-selenium-automation):** Extração automatizada de dados web com Selenium + geração de CSV  
+- **[Automation](https://github.com/DanloxBR/automation):** Execução de fluxos automatizados em aplicações web  
 
 ### 🌐 Backend / APIs
-- **API CRUD:** API REST com operações CRUD usando Spring Boot + JPA  
-- **Sistema de Cadastro:** Gerenciamento de usuários com persistência em banco de dados  
-- **Chat em Tempo Real:** Comunicação em tempo real com WebSocket + Spring Boot  
-- **Auth System:** Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções  
+- **[API CRUD](https://github.com/DanloxBR/apicrud):** API REST com operações CRUD usando Spring Boot + JPA  
+- **[Sistema de Cadastro](https://github.com/DanloxBR/sistema-cadastro):** Gerenciamento de usuários com persistência em banco de dados  
+- **[Chat em Tempo Real](https://github.com/DanloxBR/chat):** Comunicação em tempo real com WebSocket + Spring Boot  
+- **[Auth System](https://github.com/DanloxBR/auth-system):** Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções  
 
 ### 🧠 Lógica e Arquitetura
-- **Sudoku:** Validação de regras e modelagem orientada a objetos  
-- **EscapeButton:** Implementação do padrão Observer com foco em desacoplamento  
+- **[Sudoku](https://github.com/DanloxBR/sudoku):** Validação de regras e modelagem orientada a objetos  
+- **[EscapeButton](https://github.com/DanloxBR/escapebutton):** Implementação do padrão Observer com foco em desacoplamento  
 
 ### 💻 Aplicações Desktop
-- **Sistema Financeiro:** Controle de receitas e despesas  
-- **Calculadora com Interface:** Aplicação com foco em eventos e organização de UI  
+- **[Sistema Financeiro](https://github.com/DanloxBR/sistema-financeiro):** Controle de receitas e despesas  
+- **[Calculadora com Interface](https://github.com/DanloxBR/calculadora-ui):** Aplicação com foco em eventos e organização de UI  
 
 ---
 
