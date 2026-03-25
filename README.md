@@ -1,4 +1,4 @@
-👋 Olá, eu sou Daniel Santos Oliveira
+##👋 Olá, eu sou Daniel Santos Oliveira##
 
 💻 Desenvolvedor Java Backend Júnior
 Focado em construção de APIs REST escaláveis, automação de processos e aplicação de boas práticas de desenvolvimento.
@@ -20,33 +20,21 @@ Tratamento global de exceções
 API REST seguindo boas práticas
 ⚡ Projetos Relevantes
 🤖 Automação e RPA
-Automação/RPA
-: Automação de processos repetitivos com Java
-RoboValidador
-: Validação automática de dados (.txt / .csv) com geração de relatórios
-CSV Selenium Automation
-: Extração automatizada de dados web com Selenium + geração de CSV
-Automation
-: Execução de fluxos automatizados em aplicações web
+Automação/RPA: Automação de processos repetitivos com Java
+RoboValidador: Validação automática de dados (.txt / .csv) com geração de relatórios
+CSV Selenium Automation: Extração automatizada de dados web com Selenium + geração de CSV
+Automation: Execução de fluxos automatizados em aplicações web
 🌐 Backend / APIs
-API CRUD
-: API REST com operações CRUD usando Spring Boot + JPA
-Sistema de Cadastro
-: Gerenciamento de usuários com persistência em banco de dados
-Chat em Tempo Real
-: Comunicação em tempo real com WebSocket + Spring Boot
-Auth System
-: Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções
+API CRUD: API REST com operações CRUD usando Spring Boot + JPA
+Sistema de Cadastro: Gerenciamento de usuários com persistência em banco de dados
+Chat em Tempo Real: Comunicação em tempo real com WebSocket + Spring Boot
+Auth System: Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções
 🧠 Lógica e Arquitetura
-Sudoku
-: Validação de regras e modelagem orientada a objetos
-EscapeButton
-: Implementação do padrão Observer com foco em desacoplamento
+Sudoku: Validação de regras e modelagem orientada a objetos
+EscapeButton: Implementação do padrão Observer com foco em desacoplamento
 💻 Aplicações Desktop
-Sistema Financeiro
-: Controle de receitas e despesas
-Calculadora com Interface
-: Aplicação com foco em eventos e organização de UI
+Sistema Financeiro: Controle de receitas e despesas
+Calculadora com Interface: Aplicação com foco em eventos e organização de UI
 🛠️ Tecnologias e Ferramentas
 
 Backend: Java, Spring Boot, REST API, JPA
