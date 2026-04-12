@@ -35,7 +35,6 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 - **[Sistema de Cadastro](https://github.com/DanloxBR/sistema-cadastro):** Gerenciamento de usuários com persistência em banco de dados  
 - **[Chat em Tempo Real](https://github.com/DanloxBR/chat):** Comunicação em tempo real com WebSocket + Spring Boot  
 - **[Auth System](https://github.com/DanloxBR/auth-system):** Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções
-- **[Sea Tecnologia](https://github.com/DanloxBR/SeaTecnologia):** API REST para gerenciamento de clientes, construída com Java 8 e Spring Boot, seguindo boas práticas como separação em camadas, DTOs e validações.
 
 ### 🧠 Lógica e Arquitetura
 - **[Sudoku](https://github.com/DanloxBR/sudoku):** Validação de regras e modelagem orientada a objetos  
