@@ -35,8 +35,9 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 - **[Sistema de Cadastro](https://github.com/DanloxBR/sistema-cadastro):** Gerenciamento de usuários com persistência em banco de dados  
 - **[Chat em Tempo Real](https://github.com/DanloxBR/chat):** Comunicação em tempo real com WebSocket + Spring Boot  
 - **[Auth System](https://github.com/DanloxBR/auth-system):** Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções
-- **[Pagamentos](https://github.com/DanloxBR/Pagamentos):** API de pagamentos utilizando Spring Boot, onde implementei transferência de valores entre carteiras com controle de saldo e persistência em PostgreSQL
-
+- **[Pagamentos](https://github.com/DanloxBR/Pagamentos):** API de pagamentos utilizando Spring Boot, onde implementei transferência de valores entre carteiras com controle de saldo e em PostgreSQL
+- **[Wallet](https://github.com/DanloxBR/Wallet/blob/main/README.md):** API de carteira digital desenvolvida com Java 8 + Spring Boot, simulando operações financeiras reais como criação de contas, transferências e controle de saldo.
+- 
 ### 🧠 Lógica e Arquitetura
 - **[Sudoku](https://github.com/DanloxBR/sudoku):** Validação de regras e modelagem orientada a objetos  
 - **[EscapeButton](https://github.com/DanloxBR/escapebutton):** Implementação do padrão Observer com foco em desacoplamento  
