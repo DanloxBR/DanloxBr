@@ -31,8 +31,7 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 - **[Automation](https://github.com/DanloxBR/automation):** Execução de fluxos automatizados em aplicações web  
 
 ### 🌐 Backend / APIs
-- **[API CRUD](https://github.com/DanloxBR/apicrud):** API REST com operações CRUD usando Spring Boot + JPA  
-- **[Sistema de Cadastro](https://github.com/DanloxBR/sistema-cadastro):** Gerenciamento de usuários com persistência em banco de dados  
+- **[API CRUD](https://github.com/DanloxBR/apicrud):** API REST com operações CRUD usando Spring Boot + JPA   
 - **[Chat em Tempo Real](https://github.com/DanloxBR/chat):** Comunicação em tempo real com WebSocket + Spring Boot  
 - **[Auth System](https://github.com/DanloxBR/auth-system):** Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções
 - **[Pagamentos](https://github.com/DanloxBR/Pagamentos):** API de pagamentos utilizando Spring Boot, onde implementei transferência de valores entre carteiras com controle de saldo e em PostgreSQL
