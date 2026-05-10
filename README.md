@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Daniel Santos Oliveira
 
-💻 **Desenvolvedor Java Backend Júnior**  
+💻 **Desenvolvedor Java**  
 Focado em construção de **APIs REST escaláveis**, automação de processos e aplicação de boas práticas de desenvolvimento.
 
 Desenvolvedor Backend Java com experiência prática em ambiente produtivo, atuando no desenvolvimento e manutenção de APIs REST com **Spring Boot**, com foco em **performance, escalabilidade e qualidade de código**. Experiência com **microsserviços**, **mensageria com Apache Kafka** e **arquitetura multi-tenant**, garantindo **isolamento de dados** e suporte a múltiplos clientes. Atuação direta em **resolução de incidentes críticos**, análise de logs, troubleshooting e otimização de queries SQL.
