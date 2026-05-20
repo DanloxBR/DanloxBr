@@ -44,7 +44,8 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 
 ### 💻 Aplicações Desktop
 - **[Sistema Financeiro](https://github.com/DanloxBR/sistema-financeiro):** Controle de receitas e despesas  
-- **[Calculadora com Interface](https://github.com/DanloxBR/calculadora-ui):** Aplicação com foco em eventos e organização de UI  
+- **[Calculadora com Interface](https://github.com/DanloxBR/calculadora-ui):** Aplicação com foco em eventos e organização de UI
+- **[DahsBoard de Estudos](https://github.com/DanloxBR/dashboard):** Aplicação desenvolvida para praticar eventos, componentização e construção de interfaces modernas utilizando Java Swing.
 
 ---
 
