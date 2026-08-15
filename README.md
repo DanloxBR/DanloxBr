@@ -72,11 +72,15 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 
 ## 📈 Diferenciais
 
-- Experiência prática com múltiplos projetos reais  
-- Forte base em backend com Java e Spring Boot  
-- Automação de processos (RPA + Selenium)  
-- Aplicação de boas práticas (**Clean Code, SOLID, MVC**)  
-- Evolução contínua e foco em qualidade de código  
+- Experiência prática no desenvolvimento de aplicações e APIs com **Java e Spring Boot**
+- Forte atuação em **Backend, APIs REST, PostgreSQL e integração de sistemas**
+- Experiência com **automação de processos, RPA e Selenium**
+- Conhecimentos em **Spring Security, JWT, Kafka e microsserviços**
+- Aplicação de boas práticas como **Clean Code, SOLID, MVC e arquitetura em camadas**
+- Experiência com **Git, GitHub, Docker e CI/CD**
+- Desenvolvimento de aplicações **Desktop com Java Swing**
+- Capacidade de trabalhar desde a **regra de negócio até a persistência e integração com banco de dados**
+- Evolução contínua, organização e foco na **qualidade e manutenibilidade do código**
 
 ---
 
