@@ -55,12 +55,19 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Backend:** Java, Spring Boot, REST API, JPA  
-- **Banco de Dados:** SQL / PostgreSQL  
-- **Automação & Testes:** Selenium  
-- **DevOps & Ferramentas:** Docker, AWS, Kafka, Quarkus  
-- **Versionamento:** Git, GitHub  
-
+- **Backend:** Java 8/17, Spring Boot, APIs REST, Spring Data JPA, Hibernate
+- **Segurança:** Spring Security, JWT, Roles e Controle de Acesso
+- **Banco de Dados:** PostgreSQL, SQL, H2
+- **Mensageria:** Apache Kafka
+- **Automação & RPA:** Selenium WebDriver, automação de processos
+- **Testes:** JUnit, Mockito
+- **Desktop:** Java Swing, FlatLaf, MigLayout, JFreeChart
+- **DevOps & Cloud:** Docker, Kubernetes, CI/CD, AWS
+- **Arquitetura:** Microsserviços, Arquitetura em Camadas, SOLID, Clean Code
+- **Documentação:** Swagger / OpenAPI
+- **Build & Dependências:** Maven, Lombok
+- **Versionamento:** Git, GitHub
+- **Ferramentas:** Postman, IntelliJ IDEA
 ---
 
 ## 📈 Diferenciais
