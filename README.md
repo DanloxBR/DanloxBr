@@ -25,28 +25,32 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 ## ⚡ Projetos Relevantes
 
 ### 🤖 Automação e RPA
-- **[Automação/RPA](https://github.com/DanloxBR/automacao-rpa):** Automação de processos repetitivos com Java  
-- **[RoboValidador](https://github.com/DanloxBR/robovalidador):** Validação automática de dados (.txt / .csv) com geração de relatórios  
-- **[CSV Selenium Automation](https://github.com/DanloxBR/csv-selenium-automation):** Extração automatizada de dados web com Selenium + geração de CSV  
-- **[Automation](https://github.com/DanloxBR/automation):** Execução de fluxos automatizados em aplicações web  
+
+- [**Automação/RPA**](https://github.com/DanloxBR/automacao-rpa)**:** Automação de processos repetitivos com Java
+- [**RoboValidador**](https://github.com/DanloxBR/robovalidador)**:** Validação automática de dados (.txt / .csv) com geração de relatórios
+- [**CSV Selenium Automation**](https://github.com/DanloxBR/csv-selenium-automation)**:** Extração automatizada de dados web com Selenium + geração de CSV
+- [**Automation**](https://github.com/DanloxBR/automation)**:** Execução de fluxos automatizados em aplicações web
 
 ### 🌐 Backend / APIs
-- **[API CRUD](https://github.com/DanloxBR/apicrud):** API REST com operações CRUD usando Spring Boot + JPA   
-- **[Chat em Tempo Real](https://github.com/DanloxBR/chat):** Comunicação em tempo real com WebSocket + Spring Boot  
-- **[Auth System](https://github.com/DanloxBR/auth-system):** Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções
-- **[Pagamentos](https://github.com/DanloxBR/Pagamentos):** API de pagamentos utilizando Spring Boot, onde implementei transferência de valores entre carteiras com controle de saldo e em PostgreSQL
-- **[Wallet](https://github.com/DanloxBR/Wallet/blob/main/README.md):** API de carteira digital desenvolvida com Java 8 + Spring Boot.
-- **[Banking API](https://github.com/DanloxBR/bank-account-api):** API bancária desenvolvida com Spring Boot, utilizando autenticação JWT, Spring Security e PostgreSQL, onde implementei gerenciamento de contas, consulta de saldo, depósitos, saques, transferências entre contas e extrato bancário seguindo arquitetura RESTful e boas práticas de backend.
+
+- [**API CRUD**](https://github.com/DanloxBR/apicrud)**:** API REST com operações CRUD usando Spring Boot + JPA
+- [**Chat em Tempo Real**](https://github.com/DanloxBR/chat)**:** Comunicação em tempo real com WebSocket + Spring Boot
+- [**Auth System**](https://github.com/DanloxBR/auth-system)**:** Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções
+- [**Pagamentos**](https://github.com/DanloxBR/Pagamentos)**:** API de pagamentos utilizando Spring Boot, com transferência de valores entre carteiras, controle de saldo e PostgreSQL
+- [**Wallet**](https://github.com/DanloxBR/Wallet/blob/main/README.md)**:** API de carteira digital desenvolvida com Java 8 + Spring Boot
+- [**Banking API**](https://github.com/DanloxBR/bank-account-api)**:** API bancária desenvolvida com Spring Boot, utilizando autenticação JWT, Spring Security e PostgreSQL, com gerenciamento de contas, consulta de saldo, depósitos, saques, transferências entre contas e extrato bancário seguindo arquitetura RESTful e boas práticas de backend
 
 ### 🧠 Lógica e Arquitetura
-- **[Sudoku](https://github.com/DanloxBR/sudoku):** Validação de regras e modelagem orientada a objetos  
-- **[EscapeButton](https://github.com/DanloxBR/escapebutton):** Implementação do padrão Observer com foco em desacoplamento  
+
+- [**Sudoku**](https://github.com/DanloxBR/sudoku)**:** Validação de regras e modelagem orientada a objetos
+- [**EscapeButton**](https://github.com/DanloxBR/escapebutton)**:** Implementação do padrão Observer com foco em desacoplamento
 
 ### 💻 Aplicações Desktop
-- **[Sistema Financeiro](https://github.com/DanloxBR/sistema-financeiro):** Controle de receitas e despesas  
-- **[Calculadora com Interface](https://github.com/DanloxBR/calculadora-ui):** Aplicação com foco em eventos e organização de UI
-- **[DahsBoard de Estudos](https://github.com/DanloxBR/dashboard):** Aplicação desenvolvida para praticar eventos, componentização e construção de interfaces modernas utilizando Java Swing.
 
+- [**Fisioterapia Manager**](https://github.com/DanloxBR/fisioterapia-manager)**:** Sistema desktop para gerenciamento de clínicas e atendimentos de fisioterapia, desenvolvido com Java 8, Spring Boot, Java Swing, PostgreSQL, FlatLaf e JFreeChart
+- [**Sistema Financeiro**](https://github.com/DanloxBR/sistema-financeiro)**:** Controle de receitas e despesas
+- [**Calculadora com Interface**](https://github.com/DanloxBR/calculadora-ui)**:** Aplicação com foco em eventos e organização de UI
+- [**Dashboard de Estudos**](https://github.com/DanloxBR/dashboard)**:** Aplicação desenvolvida para praticar eventos, componentização e construção de interfaces modernas utilizando Java Swing
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
