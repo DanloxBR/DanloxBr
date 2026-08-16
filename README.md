@@ -26,7 +26,6 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 
 ### 🌐 Backend / APIs
 
-* [**Fisioterapia Manager**](https://github.com/DanloxBR/fisioterapia-manager) **:** Sistema desktop para gerenciamento de clínicas e atendimentos de fisioterapia, desenvolvido com Java 8, Spring Boot, Java Swing, PostgreSQL, FlatLaf e JFreeChart.
 * [**Bank Account API**](https://github.com/DanloxBR/bank-account-api) **:** API bancária desenvolvida com Spring Boot, com autenticação JWT, Spring Security, PostgreSQL, gerenciamento de contas, saldo, depósitos, saques, transferências e extrato bancário.
 * [**API Review Manager**](https://github.com/DanloxBR/apireviewmanager) **:** API REST desenvolvida com Spring Boot, PostgreSQL, DTOs, tratamento global de exceções e arquitetura voltada para gerenciamento de avaliações.
 * [**API CRUD**](https://github.com/DanloxBR/apicrud) **:** API REST com operações CRUD utilizando Spring Boot e JPA.
@@ -46,6 +45,7 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 
 ### 💻 Aplicações Desktop
 
+* [**Fisioterapia Manager**](https://github.com/DanloxBR/fisioterapia-manager) **:** Sistema desktop para gerenciamento de clínicas e atendimentos de fisioterapia, desenvolvido com Java 8, Spring Boot, Java Swing, PostgreSQL, FlatLaf e JFreeChart.
 * [**Sistema Financeiro**](https://github.com/DanloxBR/finance) **:** Aplicação para gerenciamento e controle financeiro.
 * [**Calculadora**](https://github.com/DanloxBR/Calculadora-) **:** Aplicação de calculadora desenvolvida em Java.
 * [**Cadastro**](https://github.com/DanloxBR/Cadastro) **:** Aplicação para gerenciamento de cadastros utilizando Java.
