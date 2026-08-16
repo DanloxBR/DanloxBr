@@ -32,7 +32,6 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 * [**Wallet**](https://github.com/DanloxBR/Wallet) **:** API de carteira digital desenvolvida com Java 8 e Spring Boot.
 * [**Pagamentos**](https://github.com/DanloxBR/Pagamentos) **:** API de pagamentos utilizando Spring Boot, com transferência de valores entre carteiras, controle de saldo e PostgreSQL.
 * [**Auth System**](https://github.com/DanloxBR/auth-system) **:** Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções.
-* [**SeaTecnologia**](https://github.com/DanloxBR/SeaTecnologia) **:** Projeto desenvolvido com Java e Spring Boot para prática de desenvolvimento de aplicações e APIs.
 * [**Chat em Tempo Real**](https://github.com/DanloxBR/chat) **:** Projeto voltado para comunicação em tempo real utilizando tecnologias web.
 
 ### 🤖 Automação e RPA
