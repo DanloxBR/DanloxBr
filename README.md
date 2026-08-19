@@ -3,7 +3,10 @@
 💻 **Desenvolvedor Java**  
 Focado em construção de **APIs REST escaláveis**, automação de processos e aplicação de boas práticas de desenvolvimento.
 
-Desenvolvedor Backend Java com experiência prática em ambiente produtivo, atuando no desenvolvimento e manutenção de APIs REST com **Spring Boot**, com foco em **performance, escalabilidade e qualidade de código**. Experiência com **microsserviços**, **mensageria com Apache Kafka** e **arquitetura multi-tenant**, garantindo **isolamento de dados** e suporte a múltiplos clientes. Atuação direta em **resolução de incidentes críticos**, análise de logs, troubleshooting e otimização de queries SQL.
+Desenvolvedor Backend Java com experiência prática em ambiente produtivo, atuando no desenvolvimento e manutenção de APIs REST com Java e Spring Boot, com foco em performance, escalabilidade, qualidade de código e estabilidade dos sistemas.
+Experiência com microsserviços, Apache Kafka, arquitetura multi-tenant, Spring Data JPA, Hibernate e PostgreSQL, contribuindo para soluções escaláveis, integração entre serviços e isolamento de dados para múltiplos clientes.
+Atuação direta na resolução de incidentes em produção, realizando análise de logs, debugging, troubleshooting e otimização de queries SQL, contribuindo para a redução de falhas e melhoria contínua dos sistemas.
+Conhecimentos em Git, Docker, Kubernetes, CI/CD, testes com JUnit e Mockito, Spring Security, JWT e arquitetura orientada a eventos, com experiência em desenvolvimento de sistemas seguindo boas práticas como Clean Code, SOLID e arquitetura em camadas.
 
 ---
 
