@@ -204,14 +204,6 @@ Tenho interesse e experiência prática com:
 
 ---
 
-# 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanloxBR\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanloxBR\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
 # 🎯 Objetivo profissional
 
 Busco oportunidades como **Desenvolvedor Java Backend**, contribuindo em projetos que utilizem tecnologias como:
