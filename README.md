@@ -3,11 +3,8 @@
 ### Java Backend Developer | Spring Boot | APIs REST | Microservices | Kafka
 
 Desenvolvedor Backend Java com experiência prática em desenvolvimento e manutenção de aplicações em ambiente produtivo.
-
 Atuo principalmente com **Java, Spring Boot, APIs REST, PostgreSQL, Spring Data JPA, Hibernate, Apache Kafka e microsserviços**, buscando desenvolver soluções escaláveis, seguras e de fácil manutenção.
-
 Tenho experiência com **troubleshooting, análise de logs, debugging, otimização de queries SQL, integração entre serviços, arquitetura multi-tenant e sistemas orientados a eventos**.
-
 Também trabalho com **Docker, Kubernetes, CI/CD, testes automatizados, Spring Security e JWT**, aplicando princípios como **Clean Code, SOLID e arquitetura em camadas**.
 
 ---
