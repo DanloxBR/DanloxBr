@@ -167,6 +167,8 @@ Tecnologias utilizadas:
 
 `Java` `Selenium WebDriver` `OpenCSV` `Automação`
 
+🔗 [Ver projeto](https://github.com/DanloxBR/automation)
+
 ---
 
 # 🖥️ Aplicações Desktop
@@ -177,11 +179,7 @@ Sistema para gerenciamento de clínicas e atendimentos.
 
 `Java 8` `Spring Boot` `Java Swing` `PostgreSQL` `FlatLaf` `JFreeChart`
 
-### FinanceHub
-
-Sistema desktop para gerenciamento financeiro.
-
-`Java 8` `Swing` `FlatLaf` `JFreeChart` `PostgreSQL`
+🔗 [Ver projeto](https://github.com/DanloxBR/fisioterapia-manager)
 
 ---
 
