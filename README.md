@@ -96,7 +96,7 @@ Backend completo para gerenciamento de avaliações, com **autenticação** e **
 ## 📫 Contato
 
 📧 **Email:** danlox0602@gmail.com  
-💼 **LinkedIn:** [Daniel Santos Oliveira](https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/)  
+💼 **LinkedIn:** [Daniel Santos Oliveira](https://www.linkedin.com/in/daniel-santos-oliveira-493686136/)  
 
 💡 **Frase que me define:**  
 *"Programar é uma dádiva da inteligência."*
