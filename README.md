@@ -1,102 +1,238 @@
-# 👋 Olá, eu sou Daniel Santos Oliveira
+# 👨‍💻 Daniel Santos Oliveira
 
-💻 **Desenvolvedor Java**  
-Focado em construção de **APIs REST escaláveis**, automação de processos e aplicação de boas práticas de desenvolvimento.
+### Java Backend Developer | Spring Boot | APIs REST | Microservices | Kafka
 
-Desenvolvedor Backend Java com experiência prática em ambiente produtivo, atuando no desenvolvimento e manutenção de APIs REST com Java e Spring Boot, com foco em performance, escalabilidade, qualidade de código e estabilidade dos sistemas.
-Experiência com microsserviços, Apache Kafka, arquitetura multi-tenant, Spring Data JPA, Hibernate e PostgreSQL, contribuindo para soluções escaláveis, integração entre serviços e isolamento de dados para múltiplos clientes.
-Atuação direta na resolução de incidentes em produção, realizando análise de logs, debugging, troubleshooting e otimização de queries SQL, contribuindo para a redução de falhas e melhoria contínua dos sistemas.
-Conhecimentos em Git, Docker, Kubernetes, CI/CD, testes com JUnit e Mockito, Spring Security, JWT e arquitetura orientada a eventos, com experiência em desenvolvimento de sistemas seguindo boas práticas como Clean Code, SOLID e arquitetura em camadas.
+Desenvolvedor Backend Java com experiência prática em desenvolvimento e manutenção de aplicações em ambiente produtivo.
 
----
+Atuo principalmente com **Java, Spring Boot, APIs REST, PostgreSQL, Spring Data JPA, Hibernate, Apache Kafka e microsserviços**, buscando desenvolver soluções escaláveis, seguras e de fácil manutenção.
 
-## 🚀 Projeto Principal
+Tenho experiência com **troubleshooting, análise de logs, debugging, otimização de queries SQL, integração entre serviços, arquitetura multi-tenant e sistemas orientados a eventos**.
 
-### **[API Review Manager](https://github.com/DanloxBR/apireviewmanager)**
-Backend completo para gerenciamento de avaliações, com **autenticação** e **boas práticas de arquitetura**.
-
-**Destaques técnicos:**  
-- Arquitetura em camadas (Controller, Service, Repository)  
-- Autenticação e autorização com **JWT**  
-- Integração com banco de dados via **JPA/Hibernate**  
-- Validações de regras de negócio  
-- Tratamento global de exceções  
-- API REST seguindo boas práticas  
+Também trabalho com **Docker, Kubernetes, CI/CD, testes automatizados, Spring Security e JWT**, aplicando princípios como **Clean Code, SOLID e arquitetura em camadas**.
 
 ---
 
-## ⚡ Projetos Relevantes
+## 🚀 Sobre mim
 
-### 🌐 Backend / APIs
-
-* [**Bank Account API**](https://github.com/DanloxBR/bank-account-api) **:** API bancária desenvolvida com Spring Boot, com autenticação JWT, Spring Security, PostgreSQL, gerenciamento de contas, saldo, depósitos, saques, transferências e extrato bancário.
-* [**API Review Manager**](https://github.com/DanloxBR/apireviewmanager) **:** API REST desenvolvida com Spring Boot, PostgreSQL, DTOs, tratamento global de exceções e arquitetura voltada para gerenciamento de avaliações.
-* [**API CRUD**](https://github.com/DanloxBR/apicrud) **:** API REST com operações CRUD utilizando Spring Boot e JPA.
-* [**Wallet**](https://github.com/DanloxBR/Wallet) **:** API de carteira digital desenvolvida com Java 8 e Spring Boot.
-* [**Pagamentos**](https://github.com/DanloxBR/Pagamentos) **:** API de pagamentos utilizando Spring Boot, com transferência de valores entre carteiras, controle de saldo e PostgreSQL.
-* [**Auth System**](https://github.com/DanloxBR/auth-system) **:** Sistema de autenticação e gerenciamento de usuários com Spring Boot, JWT, roles e tratamento de exceções.
-* [**Chat em Tempo Real**](https://github.com/DanloxBR/chat) **:** Projeto voltado para comunicação em tempo real utilizando tecnologias web.
-
-### 🤖 Automação e RPA
-
-* [**RPA**](https://github.com/DanloxBR/RPA) **:** Projeto relacionado à automação de processos utilizando Java.
-* [**Automation**](https://github.com/DanloxBR/automation) **:** Execução de fluxos automatizados em aplicações.
-* [**RoboValidador**](https://github.com/DanloxBR/robovalidador) **:** Validação automática de dados com processamento de arquivos.
-* [**CSV**](https://github.com/DanloxBR/csv) **:** Projeto voltado para processamento e manipulação de arquivos CSV.
-* [**WebScraping**](https://github.com/DanloxBR/WebScraping) **:** Projeto voltado para extração automatizada de informações da web.
-
-### 💻 Aplicações Desktop
-
-* [**Fisioterapia Manager**](https://github.com/DanloxBR/fisioterapia-manager) **:** Sistema desktop para gerenciamento de clínicas e atendimentos de fisioterapia, desenvolvido com Java 8, Spring Boot, Java Swing, PostgreSQL, FlatLaf e JFreeChart.
-* [**Sistema Financeiro**](https://github.com/DanloxBR/finance) **:** Aplicação para gerenciamento e controle financeiro.
-* [**Calculadora**](https://github.com/DanloxBR/Calculadora-) **:** Aplicação de calculadora desenvolvida em Java.
-* [**Cadastro**](https://github.com/DanloxBR/Cadastro) **:** Aplicação para gerenciamento de cadastros utilizando Java.
-* [**iPhone Music**](https://github.com/DanloxBR/iphone-Music) **:** Projeto desenvolvido em Java com foco em interface e funcionalidades de uma aplicação de música.
-* [**Estudos**](https://github.com/DanloxBR/Estudos) **:** Repositório utilizado para estudos e prática de desenvolvimento.
-
-### 🧠 Lógica, Padrões e Fundamentos
-
-* [**Sudoku**](https://github.com/DanloxBR/Sudoku) **:** Implementação de Sudoku com foco em lógica de programação, validação de regras e orientação a objetos.
-* [**EscapeButton**](https://github.com/DanloxBR/EscapeButton) **:** Implementação do padrão Observer com foco em desacoplamento e comunicação entre componentes.
-* [**HTML**](https://github.com/DanloxBR/HTML) **:** Projetos e estudos relacionados ao desenvolvimento web com HTML.
+* 💻 Desenvolvedor focado em **Backend Java**
+* ☕ Experiência com **Java 8/17**
+* 🌱 Desenvolvimento de APIs e microsserviços com **Spring Boot**
+* 🗄️ Experiência com **PostgreSQL, SQL, JPA e Hibernate**
+* 🔄 Mensageria e comunicação assíncrona com **Apache Kafka**
+* 🔐 Segurança com **Spring Security e JWT**
+* 🧪 Testes com **JUnit e Mockito**
+* 🐳 Docker e Kubernetes
+* ⚙️ CI/CD e Git
+* 🤖 Automação e RPA com Java e Selenium
+* 📚 Atualmente aprofundando conhecimentos em arquitetura, microsserviços e sistemas distribuídos
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# 🛠️ Tech Stack
 
-- **Backend:** Java 8/17, Spring Boot, APIs REST, Spring Data JPA, Hibernate
-- **Segurança:** Spring Security, JWT, Roles e Controle de Acesso
-- **Banco de Dados:** PostgreSQL, SQL, H2
-- **Mensageria:** Apache Kafka
-- **Automação & RPA:** Selenium WebDriver, automação de processos
-- **Testes:** JUnit, Mockito
-- **Desktop:** Java Swing, FlatLaf, MigLayout, JFreeChart
-- **DevOps & Cloud:** Docker, Kubernetes, CI/CD, AWS
-- **Arquitetura:** Microsserviços, Arquitetura em Camadas, SOLID, Clean Code
-- **Documentação:** Swagger / OpenAPI
-- **Build & Dependências:** Maven, Lombok
-- **Versionamento:** Git, GitHub
-- **Ferramentas:** Postman, IntelliJ IDEA
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![H2](https://img.shields.io/badge/H2-003545?style=for-the-badge\&logo=h2\&logoColor=white)
+
+### Mensageria
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+
+### Segurança
+
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+### Testes
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge\&logo=mockito\&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+
 ---
 
-## 📈 Diferenciais
+# ⭐ Projetos em destaque
 
-- Experiência prática no desenvolvimento de aplicações e APIs com **Java e Spring Boot**
-- Forte atuação em **Backend, APIs REST, PostgreSQL e integração de sistemas**
-- Experiência com **automação de processos, RPA e Selenium**
-- Conhecimentos em **Spring Security, JWT, Kafka e microsserviços**
-- Aplicação de boas práticas como **Clean Code, SOLID, MVC e arquitetura em camadas**
-- Experiência com **Git, GitHub, Docker e CI/CD**
-- Desenvolvimento de aplicações **Desktop com Java Swing**
-- Capacidade de trabalhar desde a **regra de negócio até a persistência e integração com banco de dados**
-- Evolução contínua, organização e foco na **qualidade e manutenibilidade do código**
+## 🔥 API Review Manager
+
+**API REST para gerenciamento de avaliações**, desenvolvida com foco em arquitetura, segurança e organização de código.
+
+**Tecnologias:**
+`Java` `Spring Boot` `PostgreSQL` `JPA` `Hibernate` `JWT`
+
+**Destaques:**
+
+* Arquitetura Controller → Service → Repository
+* DTOs
+* Autenticação e autorização
+* Tratamento global de exceções
+* Validação de regras de negócio
+* Multi-tenancy
+* API REST
+
+🔗 [Ver projeto](https://github.com/DanloxBR/apireviewmanager)
 
 ---
 
-## 📫 Contato
+## 💳 Pagamentos
 
-📧 **Email:** danlox0602@gmail.com  
-💼 **LinkedIn:** [Daniel Santos Oliveira](https://www.linkedin.com/in/daniel-santos-oliveira-493686136/)  
+API para gerenciamento de pagamentos e transferências entre carteiras.
 
-💡 **Frase que me define:**  
-*"Programar é uma dádiva da inteligência."*
+**Tecnologias:**
+`Java` `Spring Boot` `PostgreSQL` `REST API`
+
+**Destaques:**
+
+* Transferência de valores
+* Controle de saldo
+* Regras de negócio
+* Persistência com PostgreSQL
+
+🔗 [Ver projeto](https://github.com/DanloxBR/Pagamentos)
+
+---
+
+## 💰 Wallet
+
+API de carteira digital desenvolvida utilizando Java e Spring Boot.
+
+**Tecnologias:**
+`Java 8` `Spring Boot` `REST` `JPA`
+
+🔗 [Ver projeto](https://github.com/DanloxBR/Wallet)
+
+---
+
+## 🏦 Bank Account API
+
+API bancária com funcionalidades de contas, saldo, depósitos, saques, transferências e extrato.
+
+**Tecnologias:**
+`Java` `Spring Boot` `PostgreSQL` `Spring Security` `JWT`
+
+🔗 [Ver projeto](https://github.com/DanloxBR/bank-account-api)
+
+---
+
+## 💬 Chat em Tempo Real
+
+Aplicação de comunicação em tempo real utilizando WebSocket, com integração de mensageria.
+
+**Tecnologias:**
+`Java` `Spring Boot` `WebSocket` `STOMP` `Apache Kafka`
+
+🔗 [Ver projeto](https://github.com/DanloxBR/chat)
+
+---
+
+## 🔐 Auth System
+
+Sistema de autenticação e gerenciamento de usuários.
+
+**Tecnologias:**
+`Java` `Spring Boot` `Spring Security` `JWT` `Roles`
+
+🔗 [Ver projeto](https://github.com/DanloxBR/auth-system)
+
+---
+
+# 🤖 Automação & RPA
+
+Projetos voltados para automação de processos, processamento de dados e integração com aplicações.
+
+* 🤖 **RPA**
+* ⚙️ **Automation**
+* 🔎 **RoboValidador**
+* 📄 **CSV Processor**
+* 🌐 **WebScraping**
+
+Tecnologias utilizadas:
+
+`Java` `Selenium WebDriver` `OpenCSV` `Automação`
+
+---
+
+# 🖥️ Aplicações Desktop
+
+### Fisioterapia Manager
+
+Sistema para gerenciamento de clínicas e atendimentos.
+
+`Java 8` `Spring Boot` `Java Swing` `PostgreSQL` `FlatLaf` `JFreeChart`
+
+### FinanceHub
+
+Sistema desktop para gerenciamento financeiro.
+
+`Java 8` `Swing` `FlatLaf` `JFreeChart` `PostgreSQL`
+
+---
+
+# 🧠 Arquitetura & Boas Práticas
+
+Tenho interesse e experiência prática com:
+
+* **Clean Code**
+* **SOLID**
+* **Design Patterns**
+* **MVC**
+* **Arquitetura em Camadas**
+* **Microsserviços**
+* **Arquitetura orientada a eventos**
+* **Multi-tenancy**
+* **DTO / Mapper**
+* **Tratamento global de exceções**
+* **Autenticação e autorização**
+* **Integração entre serviços**
+
+---
+
+# 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanloxBR\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanloxBR\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🎯 Objetivo profissional
+
+Busco oportunidades como **Desenvolvedor Java Backend**, contribuindo em projetos que utilizem tecnologias como:
+
+**Java • Spring Boot • APIs REST • Microsserviços • Kafka • PostgreSQL**
+
+Tenho interesse em ambientes onde possa continuar evoluindo tecnicamente, trabalhar com sistemas distribuídos e contribuir para soluções de alto impacto.
+
+---
+
+# 📫 Contato
+
+📧 **Email:** [danlox0602@gmail.com](mailto:danlox0602@gmail.com)
+
+💼 **LinkedIn:** [Daniel Santos Oliveira](https://www.linkedin.com/in/daniel-santos-oliveira-2b91a237a/)
+
+🐙 **GitHub:** [DanloxBR](https://github.com/DanloxBR)
+
+---
+
+### "Programar é uma dádiva da inteligência."
