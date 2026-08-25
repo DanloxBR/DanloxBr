@@ -77,6 +77,8 @@ Permite centralizar **pacientes, fisioterapeutas, avaliações, sessões, exerc�
 * Dashboard
 * Interface desktop
 
+https://github.com/DanloxBR/fisioterapia-manager
+
 ---
 
 ## 🏦 Bank Account API
@@ -95,6 +97,8 @@ API REST bancária desenvolvida para simular operações financeiras.
 **Tecnologias:**
 
 `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL`
+
+https://github.com/DanloxBR/bank-account-api
 
 ---
 
@@ -115,6 +119,8 @@ API REST para gerenciamento de pagamentos e carteiras digitais.
 
 `Java 8` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Swagger`
 
+https://github.com/DanloxBR/Pagamentos
+
 ---
 
 ## 💰 Wallet API
@@ -133,6 +139,8 @@ API de carteira digital desenvolvida com Java e Spring Boot.
 **Tecnologias:**
 
 `Java 8` `Spring Boot` `JPA` `REST` `JWT`
+
+https://github.com/DanloxBR/Wallet
 
 ---
 
@@ -154,6 +162,8 @@ API REST para gerenciamento de avaliações, desenvolvida com foco em arquitetur
 
 `Java` `Spring Boot` `JPA` `Hibernate` `PostgreSQL` `JWT`
 
+https://github.com/DanloxBR/apireviewmanager
+
 ---
 
 ## 🔐 Auth System
@@ -173,6 +183,8 @@ Sistema de autenticação e gerenciamento de usuários.
 
 `Java 8` `Spring Boot 2.7` `Spring Security` `JWT` `PostgreSQL`
 
+https://github.com/DanloxBR/auth-system
+
 ---
 
 ## 💬 Chat em Tempo Real
@@ -190,6 +202,8 @@ Aplicação de comunicação em tempo real utilizando WebSocket.
 **Tecnologias:**
 
 `Java 8` `Spring Boot` `WebSocket` `STOMP` `Apache Kafka`
+
+https://github.com/DanloxBR/chat
 
 ---
 
@@ -209,11 +223,15 @@ Projeto de RPA estruturado com Selenium WebDriver, Factory Pattern e waits expl�
 
 `Java` `Selenium WebDriver` `Maven` `Factory Pattern`
 
+https://github.com/DanloxBR/automation
+
 ### RoboValidador
 
 Automação para leitura, validação e geração de relatórios a partir de arquivos `.txt` e `.csv`.
 
 `Java` `CSV` `TXT` `POO`
+
+https://github.com/DanloxBR/robovalidador
 
 ### CSV Selenium Automation
 
@@ -221,11 +239,15 @@ Automação que utiliza Selenium para extrair dados de uma tabela HTML e gerar u
 
 `Java 8` `Selenium WebDriver` `OpenCSV` `Maven`
 
+https://github.com/DanloxBR/csv
+
 ### Web Scraping
 
 Projeto de Web Scraping utilizando Jsoup para extrair informações de páginas HTML.
 
 `Java` `Jsoup` `Maven`
+
+https://github.com/DanloxBR/WebScraping
 
 ---
 
@@ -236,6 +258,8 @@ Projeto de Web Scraping utilizando Jsoup para extrair informações de páginas 
 Jogo de Sudoku desenvolvido em Java Swing, com foco em lógica, eventos, separação entre interface e regras de negócio.
 
 `Java` `Swing` `Clean Code` `Listeners`
+
+https://github.com/DanloxBR/Sudoku
 
 ### 📱 iPhone — Modelagem POO
 
@@ -248,17 +272,23 @@ Projeto desenvolvido para representar funcionalidades de um iPhone utilizando co
 
 `Java 8`
 
+https://github.com/DanloxBR/iphone-Music
+
 ### ⌨️ Escape Button
 
 Projeto desenvolvido para estudar o padrão **Observer/Listener**, eventos e desacoplamento.
 
 `Java` `POO` `Observer` `Listener`
 
+https://github.com/DanloxBR/EscapeButton
+
 ### 🧮 Calculadora
 
 Projeto desenvolvido para praticar fundamentos da linguagem Java e construção de aplicações simples.
 
 `Java`
+
+https://github.com/DanloxBR/Calculadora-
 
 ---
 
@@ -269,6 +299,8 @@ Projeto desenvolvido para praticar fundamentos da linguagem Java e construção 
 Projeto desenvolvido com HTML5 e CSS3 para apresentação de perfil profissional, habilidades e projetos.
 
 `HTML5` `CSS3`
+
+https://github.com/DanloxBR/HTML
 
 ---
 
@@ -287,28 +319,13 @@ Repositório utilizado para registrar exercícios, práticas e estudos relaciona
 * Testes
 * Versionamento
 
+https://github.com/DanloxBR/Estudos
+
 ### 📊 CSV
 
 Projeto de automação envolvendo extração de dados de páginas web e geração de arquivos CSV.
 
----
-
-# 🧩 Sea Tecnologia — API de Clientes
-
-API REST desenvolvida em Java 8 e Spring Boot para gerenciamento de clientes.
-
-**Funcionalidades:**
-
-* CRUD de clientes
-* Validação de CPF
-* Integração com ViaCEP
-* Controle de acesso
-* Spring Security
-* Persistência com JPA
-
-**Tecnologias:**
-
-`Java 8` `Spring Boot` `Spring Security` `JPA` `Hibernate` `H2` `ViaCEP`
+https://github.com/DanloxBR/csv
 
 ---
 
@@ -329,6 +346,8 @@ API REST voltada para controle financeiro.
 **Tecnologias:**
 
 `Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Lombok`
+
+https://github.com/DanloxBR/finance
 
 ---
 
