@@ -70,29 +70,38 @@ Meu objetivo é transformar requisitos de negócio em soluções de software efi
 
 ---
 
-# ⭐ Projetos em destaque
+⭐ Projetos em destaque
+🤖 SupportBot — Bot de Atendimento via Telegram
 
-## 🔥 API Review Manager
+Bot de atendimento desenvolvido em Java, com o objetivo de automatizar a abertura, consulta e gerenciamento de chamados diretamente pelo Telegram.
 
-**API REST para gerenciamento de avaliações**, desenvolvida com foco em organização arquitetural, segurança e regras de negócio.
+O projeto simula um sistema de suporte técnico, permitindo que usuários interajam com o atendimento de forma automatizada, enquanto os chamados são organizados e controlados pelo sistema.
 
-**Tecnologias:**
-`Java` `Spring Boot` `PostgreSQL` `JPA` `Hibernate` `JWT`
+Tecnologias:
 
-**Destaques:**
+Java 8 Spring Boot Telegram Bot API Spring Data JPA PostgreSQL Lombok Maven
 
-* Arquitetura Controller → Service → Repository
-* DTOs
-* Validação de dados
-* Tratamento global de exceções
-* Autenticação e autorização
-* JWT
-* Multi-tenancy
-* Regras de negócio
-* Persistência com PostgreSQL
-* API REST
+Destaques:
 
-🔗 [Ver repositório](https://github.com/DanloxBR/apireviewmanager)
+🤖 Atendimento automatizado via Telegram
+🎫 Abertura de chamados
+🔎 Consulta de chamados
+📋 Gerenciamento de solicitações
+👤 Cadastro e identificação de usuários
+🔐 Controle de sessão do usuário
+📊 Controle de status dos chamados
+🗄️ Persistência com banco de dados
+🧩 Arquitetura Controller → Service → Repository
+🧱 Separação de responsabilidades
+⚙️ Regras de negócio
+🛡️ Tratamento de exceções
+🔄 Fluxo de atendimento automatizado
+
+Objetivo do projeto:
+
+Demonstrar na prática a construção de uma aplicação Java integrada a uma plataforma de mensagens, utilizando Spring Boot, persistência de dados, regras de negócio e automação de atendimento.
+
+🔗 Ver repositório
 
 ---
 
