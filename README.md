@@ -102,7 +102,7 @@ Objetivo do projeto:
 
 Demonstrar na prática a construção de uma aplicação Java integrada a uma plataforma de mensagens, utilizando Spring Boot, persistência de dados, regras de negócio e automação de atendimento.
 
-🔗 Ver repositório
+🔗 [Ver repositório](https://github.com/DanloxBR/bot-telegram-java)
 
 ---
 
