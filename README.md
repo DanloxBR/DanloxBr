@@ -63,81 +63,163 @@ Testes
 
 🤖 Telegram Support Bot
 
-Sistema de atendimento e gerenciamento de chamados desenvolvido em Java 8 + Spring Boot, integrado ao Telegram e com persistência em PostgreSQL.
+<p align="center">
+  <strong>Sistema de atendimento e gerenciamento de chamados integrado ao Telegram.</strong>
+</p>
 
-O projeto permite que clientes abram, consultem e acompanhem chamados diretamente pelo Telegram, enquanto atendentes podem visualizar solicitações, assumir atendimentos, resolver ou cancelar chamados.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-2.7.18-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram-26A5E5?style=for-the-badge&logo=telegram&logoColor=white">
+</p>
 
-🚀 Funcionalidades
+Aplicação backend desenvolvida em Java 8 + Spring Boot, utilizando o Telegram como canal de atendimento e o PostgreSQL para persistência dos dados.
 
-📩 Abertura de chamados diretamente pelo Telegram
+O sistema foi projetado para representar um cenário real de suporte, com clientes, atendentes, chamados, perfis de acesso, notificações e regras de negócio.
 
-📋 Consulta e acompanhamento de chamados
+✨ Principais funcionalidades
 
-👤 Cadastro automático de usuários através do Telegram
+Cliente
 
-🧑‍💼 Painel de atendimento para atendentes
+Atendente
 
-📥 Listagem de chamados pendentes
+Sistema
 
-🔄 Listagem de chamados em atendimento
+Abrir chamados
 
-✅ Assumir chamados
+Visualizar chamados pendentes
 
-✔️ Resolver chamados
+Controle de perfis
 
-❌ Cancelar chamados
+Consultar chamados
 
-🔔 Notificações automáticas para clientes e atendentes
+Assumir chamados
 
-🔐 Controle de perfis e permissões
+Controle de permissões
 
-👥 Perfis CLIENTE, ATENDENTE e ADMIN
+Acompanhar status
 
-⚡ Controle de concorrência com Optimistic Locking
+Resolver chamados
 
-🗄️ Persistência utilizando PostgreSQL
+Notificações automáticas
 
-🧩 Arquitetura em camadas
+Visualizar detalhes
 
-⚠️ Tratamento de exceções e regras de negócio
+Cancelar chamados
+
+Persistência PostgreSQL
+
+Consultar conta
+
+Acompanhar atendimentos
+
+Optimistic Locking
 
 🔄 Fluxo de atendimento
 
-Cliente
-   |
-   v
-Abre chamado
-   |
-   v
-ABERTO
-   |
-   v
-Atendente recebe notificação
-   |
-   v
-Assume o chamado
-   |
-   v
-EM_ATENDIMENTO
-   |
-   +------------+
-   |            |
-   v            v
-RESOLVIDO   CANCELADO
+                    ┌─────────────┐
+                    │   CLIENTE   │
+                    └──────┬──────┘
+                           │
+                           │ Abre chamado
+                           ▼
+                    ┌─────────────┐
+                    │    ABERTO   │
+                    └──────┬──────┘
+                           │
+                           │ Notificação
+                           ▼
+                    ┌─────────────┐
+                    │  ATENDENTE  │
+                    └──────┬──────┘
+                           │
+                           │ Assume
+                           ▼
+                 ┌──────────────────┐
+                 │  EM_ATENDIMENTO  │
+                 └────────┬─────────┘
+                          │
+                    ┌─────┴─────┐
+                    │           │
+                 Resolver    Cancelar
+                    │           │
+                    ▼           ▼
+              ┌──────────┐ ┌───────────┐
+              │ RESOLVIDO│ │ CANCELADO │
+              └──────────┘ └───────────┘
 
-🛠️ Tecnologias
+👥 Perfis de acesso
 
-Java 8 Spring Boot 2.7.18 Spring Data JPA Hibernate PostgreSQL Telegram Bot API Maven Lombok Git GitHub
+CLIENTE
+  └── Gerencia os próprios chamados
 
-🏗️ Conceitos aplicados
+ATENDENTE
+  └── Gerencia os chamados de atendimento
+
+ADMIN
+  └── Possui permissões administrativas
+      e pode atuar no atendimento
+
+🔐 Controle de concorrência
+
+O sistema utiliza Optimistic Locking através do @Version, reduzindo o risco de alterações conflitantes quando mais de um atendente tenta modificar o mesmo chamado.
+
+@Version
+@Column(nullable = false)
+private Long version;
+
+🏗️ Arquitetura
+
+Telegram
+    │
+    ▼
+┌─────────────────────┐
+│     SupportBot      │
+│ Mensagens / Menus   │
+│ Callbacks / Ações   │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│       Service       │
+│ Regras de negócio   │
+│ Validações          │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│     Repository      │
+│ Spring Data JPA     │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│     PostgreSQL      │
+└─────────────────────┘
+
+🛠️ Stack tecnológica
+
+Java 8
+Spring Boot 2.7.18
+Spring Data JPA
+Hibernate
+PostgreSQL
+Telegram Bot API
+Maven
+Lombok
+Git
+GitHub
+
+📐 Conceitos aplicados
 
 Arquitetura em camadas
-
-Separação de responsabilidades
 
 Programação Orientada a Objetos
 
 Injeção de dependências
+
+Separação de responsabilidades
 
 Regras de negócio
 
@@ -147,11 +229,90 @@ Persistência com JPA/Hibernate
 
 Tratamento de exceções
 
-Optimistic Locking com @Version
+Optimistic Locking
 
 Integração com serviço externo
 
 Versionamento com Git/GitHub
+
+📂 Estrutura
+
+src/main/java/br.com.danieldev.supportbot
+│
+├── bot
+├── config
+├── entity
+├── enums
+├── repository
+└── service
+
+▶️ Execução
+
+Requisitos:
+
+Java 8
+
+Maven
+
+PostgreSQL
+
+Bot criado no Telegram
+
+Clone:
+
+git clone https://github.com/DanloxBR/bot-telegram-java.git
+cd bot-telegram-java
+
+Crie o banco:
+
+CREATE DATABASE supportbot;
+
+Configure as credenciais do PostgreSQL e o token do Telegram através de variáveis de ambiente.
+
+Compile:
+
+mvn clean install
+
+Execute:
+
+mvn spring-boot:run
+
+🔒 Segurança
+
+Não versionar:
+
+Tokens do Telegram
+Senhas do PostgreSQL
+Chaves de API
+Credenciais
+
+Utilize variáveis de ambiente para informações sensíveis.
+
+🚀 Roadmap
+
+Docker e Docker Compose
+
+CI/CD
+
+Testes unitários e de integração
+
+Logs estruturados
+
+Monitoramento
+
+Dashboard administrativo
+
+Métricas de atendimento
+
+Histórico de alterações
+
+SLA de atendimento
+
+Priorização de chamados
+
+Categorias de atendimento
+
+Projeto desenvolvido como aplicação prática de backend Java, com foco em integração, regras de negócio, persistência e arquitetura.
 
 🩺 Fisioterapia Manager
 
