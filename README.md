@@ -1,421 +1,556 @@
-# 👨‍💻 Daniel Santos Oliveira
+👨‍💻 Daniel Santos Oliveira
 
-### Java Backend Developer | Spring Boot | APIs REST | Microsserviços | Kafka
+Java Backend Developer | Spring Boot | APIs REST | Microsserviços | Kafka
 
 Desenvolvedor Backend Java com foco na construção de APIs, sistemas distribuídos e aplicações orientadas a boas práticas de engenharia de software.
 
-Tenho experiência prática com **Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, APIs REST, Spring Security, JWT, Apache Kafka, microsserviços, Docker, Kubernetes, CI/CD, JUnit e Mockito**.
+Tenho experiência prática com Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, APIs REST, Spring Security, JWT, Apache Kafka, microsserviços, Docker, Kubernetes, CI/CD, JUnit e Mockito.
 
-Meu foco é transformar problemas de negócio em soluções **organizadas, seguras, escaláveis e fáceis de manter**.
+Meu foco é transformar problemas de negócio em soluções organizadas, seguras, escaláveis e fáceis de manter.
 
----
+🚀 Sobre mim
 
-## 🚀 Sobre mim
+☕ Desenvolvimento Backend com Java 8/17
 
-* ☕ Desenvolvimento Backend com **Java 8/17**
-* 🌱 **Spring Boot** e desenvolvimento de APIs REST
-* 🗄️ **PostgreSQL, SQL, JPA e Hibernate**
-* 🔄 **Apache Kafka** e comunicação assíncrona
-* 🔐 **Spring Security e JWT**
-* 🧪 **JUnit e Mockito**
-* 🐳 **Docker e Kubernetes**
-* ⚙️ **CI/CD, Git e GitHub**
-* 🤖 Automação e RPA com **Java + Selenium**
-* 🏗️ Arquitetura em camadas, Clean Code e SOLID
-* 📚 Estudos contínuos em microsserviços, arquitetura e sistemas distribuídos
+🌱 Spring Boot e desenvolvimento de APIs REST
 
----
+🗄️ PostgreSQL, SQL, JPA e Hibernate
 
-# 🛠️ Tech Stack
+🔄 Apache Kafka e comunicação assíncrona
 
-### Backend
+🔐 Spring Security e JWT
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+🧪 JUnit e Mockito
 
-### Banco de Dados
+🐳 Docker e Kubernetes
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+⚙️ CI/CD, Git e GitHub
 
-### DevOps
+🤖 Automação e RPA com Java + Selenium
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+🏗️ Arquitetura em camadas, Clean Code e SOLID
 
-### Testes
+📚 Estudos contínuos em microsserviços, arquitetura e sistemas distribuídos
 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78C257?style=for-the-badge)
+🛠️ Tech Stack
 
----
+Backend
 
-# ⭐ Projetos em Destaque
 
-## 🩺 [Fisioterapia Manager](https://github.com/DanloxBR/fisioterapia-manager)
+
+
+
+
+
+Banco de Dados
+
+
+
+
+DevOps
+
+
+
+
+
+
+Testes
+
+
+
+
+⭐ Projetos em Destaque
+
+🤖 Telegram Support Bot
+
+Sistema de atendimento e gerenciamento de chamados desenvolvido em Java 8 + Spring Boot, integrado ao Telegram e com persistência em PostgreSQL.
+
+O projeto permite que clientes abram, consultem e acompanhem chamados diretamente pelo Telegram, enquanto atendentes podem visualizar solicitações, assumir atendimentos, resolver ou cancelar chamados.
+
+🚀 Funcionalidades
+
+📩 Abertura de chamados diretamente pelo Telegram
+
+📋 Consulta e acompanhamento de chamados
+
+👤 Cadastro automático de usuários através do Telegram
+
+🧑‍💼 Painel de atendimento para atendentes
+
+📥 Listagem de chamados pendentes
+
+🔄 Listagem de chamados em atendimento
+
+✅ Assumir chamados
+
+✔️ Resolver chamados
+
+❌ Cancelar chamados
+
+🔔 Notificações automáticas para clientes e atendentes
+
+🔐 Controle de perfis e permissões
+
+👥 Perfis CLIENTE, ATENDENTE e ADMIN
+
+⚡ Controle de concorrência com Optimistic Locking
+
+🗄️ Persistência utilizando PostgreSQL
+
+🧩 Arquitetura em camadas
+
+⚠️ Tratamento de exceções e regras de negócio
+
+🔄 Fluxo de atendimento
+
+Cliente
+   |
+   v
+Abre chamado
+   |
+   v
+ABERTO
+   |
+   v
+Atendente recebe notificação
+   |
+   v
+Assume o chamado
+   |
+   v
+EM_ATENDIMENTO
+   |
+   +------------+
+   |            |
+   v            v
+RESOLVIDO   CANCELADO
+
+🛠️ Tecnologias
+
+Java 8 Spring Boot 2.7.18 Spring Data JPA Hibernate PostgreSQL Telegram Bot API Maven Lombok Git GitHub
+
+🏗️ Conceitos aplicados
+
+Arquitetura em camadas
+
+Separação de responsabilidades
+
+Programação Orientada a Objetos
+
+Injeção de dependências
+
+Regras de negócio
+
+Controle de acesso
+
+Persistência com JPA/Hibernate
+
+Tratamento de exceções
+
+Optimistic Locking com @Version
+
+Integração com serviço externo
+
+Versionamento com Git/GitHub
+
+🩺 Fisioterapia Manager
 
 Sistema desktop para gerenciamento de clínicas e atendimentos de fisioterapia, desenvolvido com foco em uma necessidade real de negócio.
 
-Permite centralizar **pacientes, fisioterapeutas, avaliações, sessões, exercícios, agendamentos e dashboards** em uma única aplicação.
+Permite centralizar pacientes, fisioterapeutas, avaliações, sessões, exercícios, agendamentos e dashboards em uma única aplicação.
 
-### 🚀 Funcionalidades
+🚀 Funcionalidades
 
-- 👤 Gestão de pacientes
-- 🧑‍⚕️ Gestão de fisioterapeutas
-- 📋 Avaliações fisioterapêuticas
-- 📅 Agendamentos
-- 🏋️ Cadastro e gerenciamento de exercícios
-- 📝 Registro de sessões
-- 📊 Dashboard com indicadores e gráficos
-- 🔐 Autenticação e controle de acesso
+👤 Gestão de pacientes
 
-### 🛠️ Tecnologias
+🧑‍⚕️ Gestão de fisioterapeutas
 
-`Java 8` `Spring Boot 2.7.18` `Java Swing` `FlatLaf` `MigLayout` `PostgreSQL` `JFreeChart` `JPA/Hibernate` `Lombok` `Maven` `Git`
+📋 Avaliações fisioterapêuticas
 
-### 🏗️ Conceitos aplicados
+📅 Agendamentos
 
-- Arquitetura em camadas
-- Separação de responsabilidades
-- Programação Orientada a Objetos
-- Persistência de dados
-- Regras de negócio
-- Autenticação e controle de acesso
-- Desenvolvimento de interface desktop
-- Dashboard e visualização de dados
-- Versionamento com Git/GitHub
+🏋️ Cadastro e gerenciamento de exercícios
 
----
+📝 Registro de sessões
 
-## 🏦 [Bank Account API](https://github.com/DanloxBR/bank-account-api)
+📊 Dashboard com indicadores e gráficos
+
+🔐 Autenticação e controle de acesso
+
+🛠️ Tecnologias
+
+Java 8 Spring Boot 2.7.18 Java Swing FlatLaf MigLayout PostgreSQL JFreeChart JPA/Hibernate Lombok Maven Git
+
+🏗️ Conceitos aplicados
+
+Arquitetura em camadas
+
+Separação de responsabilidades
+
+Programação Orientada a Objetos
+
+Persistência de dados
+
+Regras de negócio
+
+Autenticação e controle de acesso
+
+Desenvolvimento de interface desktop
+
+Dashboard e visualização de dados
+
+Versionamento com Git/GitHub
+
+🏦 Bank Account API
 
 API REST bancária desenvolvida em Java e Spring Boot para simulação de operações financeiras.
 
-Permite realizar operações relacionadas a **contas bancárias, depósitos, saques, transferências e extratos**, com autenticação e controle de acesso.
+Permite realizar operações relacionadas a contas bancárias, depósitos, saques, transferências e extratos, com autenticação e controle de acesso.
 
-### 🚀 Funcionalidades
+🚀 Funcionalidades
 
-* 🔐 Autenticação
-* 🏦 Gerenciamento de contas
-* 💰 Depósitos
-* 💸 Saques
-* 🔄 Transferências
-* 📄 Extrato bancário
+🔐 Autenticação
 
-### 🛠️ Tecnologias
+🏦 Gerenciamento de contas
 
-`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL`
+💰 Depósitos
 
----
+💸 Saques
 
-## 💳 [API de Pagamentos](https://github.com/DanloxBR/Pagamentos)
+🔄 Transferências
 
-API REST desenvolvida para gerenciamento de **pagamentos e carteiras digitais**, aplicando conceitos de persistência, regras de negócio e desenvolvimento de APIs.
+📄 Extrato bancário
 
-### 🚀 Funcionalidades
+🛠️ Tecnologias
 
-* 💳 Criação de carteiras
-* 💰 Consulta de saldo
-* 💸 Pagamentos
-* 🔄 Transferências
-* 📜 Histórico de transações
-* 📚 Documentação da API com Swagger/OpenAPI
+Java Spring Boot Spring Security JWT PostgreSQL
 
-### 🛠️ Tecnologias
+💳 API de Pagamentos
 
-`Java 8` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Swagger/OpenAPI`
+API REST desenvolvida para gerenciamento de pagamentos e carteiras digitais, aplicando conceitos de persistência, regras de negócio e desenvolvimento de APIs.
 
----
+🚀 Funcionalidades
 
-## 💰 [Wallet API](https://github.com/DanloxBR/Wallet)
+💳 Criação de carteiras
+
+💰 Consulta de saldo
+
+💸 Pagamentos
+
+🔄 Transferências
+
+📜 Histórico de transações
+
+📚 Documentação da API com Swagger/OpenAPI
+
+🛠️ Tecnologias
+
+Java 8 Spring Boot Spring Data JPA PostgreSQL Swagger/OpenAPI
+
+💰 Wallet API
 
 API REST de carteira digital desenvolvida com Java e Spring Boot.
 
 O projeto aborda operações financeiras e gerenciamento de usuários, utilizando autenticação para proteger os recursos da aplicação.
 
-### 🚀 Funcionalidades
+🚀 Funcionalidades
 
-* 👤 Gerenciamento de usuários
-* 💳 Criação de carteiras
-* 🔄 Transferências
-* 💰 Consulta de saldo
-* 📜 Histórico financeiro
-* 🔐 Autenticação com JWT
+👤 Gerenciamento de usuários
 
-### 🛠️ Tecnologias
+💳 Criação de carteiras
 
-`Java 8` `Spring Boot` `JPA` `REST` `JWT`
+🔄 Transferências
 
----
+💰 Consulta de saldo
 
-## ⭐ [API Review Manager](https://github.com/DanloxBR/apireviewmanager)
+📜 Histórico financeiro
 
-API REST para gerenciamento de avaliações, desenvolvida com foco em **organização arquitetural, segurança e regras de negócio**.
+🔐 Autenticação com JWT
 
-### 🏗️ Conceitos aplicados
+🛠️ Tecnologias
 
-* DTOs
-* Arquitetura `Controller → Service → Repository`
-* Multi-tenancy
-* Autenticação e autorização
-* Validação de regras de negócio
-* Tratamento global de exceções
-* Persistência com PostgreSQL
+Java 8 Spring Boot JPA REST JWT
 
-### 🛠️ Tecnologias
+⭐ API Review Manager
 
-`Java` `Spring Boot` `JPA` `Hibernate` `PostgreSQL` `JWT`
+API REST para gerenciamento de avaliações, desenvolvida com foco em organização arquitetural, segurança e regras de negócio.
 
----
+🏗️ Conceitos aplicados
 
-## 🔐 [Auth System](https://github.com/DanloxBR/auth-system)
+DTOs
 
-Sistema de autenticação e gerenciamento de usuários desenvolvido para praticar **Spring Security, JWT e controle de acesso**.
+Arquitetura Controller → Service → Repository
 
-### 🚀 Funcionalidades
+Multi-tenancy
 
-* 👤 Registro de usuários
-* 🔑 Login
-* 🔐 Autenticação com JWT
-* 🛡️ Roles e permissões
-* 🔒 Spring Security
-* ⚠️ Tratamento global de exceções
+Autenticação e autorização
 
-### 🛠️ Tecnologias
+Validação de regras de negócio
 
-`Java 8` `Spring Boot 2.7` `Spring Security` `JWT` `PostgreSQL`
+Tratamento global de exceções
 
----
+Persistência com PostgreSQL
 
-## 💬 [Chat em Tempo Real](https://github.com/DanloxBR/chat)
+🛠️ Tecnologias
 
-Aplicação de comunicação em tempo real desenvolvida para explorar **WebSocket, STOMP e comunicação assíncrona**.
+Java Spring Boot JPA Hibernate PostgreSQL JWT
 
-### 🚀 Funcionalidades
+🔐 Auth System
 
-* 💬 Comunicação bidirecional
-* ⚡ Mensagens em tempo real
-* 🔌 WebSocket
-* 📡 STOMP
-* 🔄 Integração com mensageria
+Sistema de autenticação e gerenciamento de usuários desenvolvido para praticar Spring Security, JWT e controle de acesso.
 
-### 🛠️ Tecnologias
+🚀 Funcionalidades
 
-`Java 8` `Spring Boot` `WebSocket` `STOMP` `Apache Kafka`
+👤 Registro de usuários
 
----
+🔑 Login
 
-# 🤖 Automação & RPA
+🔐 Autenticação com JWT
 
-## 🤖 RPA
+🛡️ Roles e permissões
+
+🔒 Spring Security
+
+⚠️ Tratamento global de exceções
+
+🛠️ Tecnologias
+
+Java 8 Spring Boot 2.7 Spring Security JWT PostgreSQL
+
+💬 Chat em Tempo Real
+
+Aplicação de comunicação em tempo real desenvolvida para explorar WebSocket, STOMP e comunicação assíncrona.
+
+🚀 Funcionalidades
+
+💬 Comunicação bidirecional
+
+⚡ Mensagens em tempo real
+
+🔌 WebSocket
+
+📡 STOMP
+
+🔄 Integração com mensageria
+
+🛠️ Tecnologias
+
+Java 8 Spring Boot WebSocket STOMP Apache Kafka
+
+🤖 Automação & RPA
+
+🤖 RPA
 
 Projeto desenvolvido para automação de tarefas repetitivas utilizando Java e Selenium.
 
-### 🛠️ Tecnologias
+🛠️ Tecnologias
 
-`Java` `Selenium` `Maven`
+Java Selenium Maven
 
----
-
-## ⚙️ [Automation](https://github.com/DanloxBR/automation)
+⚙️ Automation
 
 Projeto de automação desenvolvido com Selenium WebDriver, aplicando uma estrutura organizada para execução de tarefas automatizadas.
 
-### 🏗️ Conceitos aplicados
+🏗️ Conceitos aplicados
 
-* Selenium WebDriver
-* Factory Pattern
-* Explicit Waits
-* Organização e reutilização de componentes
+Selenium WebDriver
 
-### 🛠️ Tecnologias
+Factory Pattern
 
-`Java` `Selenium WebDriver` `Maven` `Factory Pattern`
+Explicit Waits
 
----
+Organização e reutilização de componentes
 
-## 🤖 [RoboValidador](https://github.com/DanloxBR/robovalidador)
+🛠️ Tecnologias
 
-Automação desenvolvida para **leitura, validação e geração de relatórios** a partir de arquivos de dados.
+Java Selenium WebDriver Maven Factory Pattern
 
-### 🚀 Funcionalidades
+🤖 RoboValidador
 
-* 📄 Leitura de arquivos `.txt`
-* 📊 Processamento de arquivos `.csv`
-* 🔎 Validação de informações
-* 📋 Geração de relatórios
+Automação desenvolvida para leitura, validação e geração de relatórios a partir de arquivos de dados.
 
-### 🛠️ Tecnologias
+🚀 Funcionalidades
 
-`Java` `CSV` `TXT` `POO`
+📄 Leitura de arquivos .txt
 
----
+📊 Processamento de arquivos .csv
 
-## 📊 [CSV Selenium Automation](https://github.com/DanloxBR/csv)
+🔎 Validação de informações
+
+📋 Geração de relatórios
+
+🛠️ Tecnologias
+
+Java CSV TXT POO
+
+📊 CSV Selenium Automation
 
 Projeto de automação que utiliza Selenium para extrair informações de uma tabela HTML e gerar um arquivo CSV.
 
-### 🛠️ Tecnologias
+🛠️ Tecnologias
 
-`Java 8` `Selenium WebDriver` `OpenCSV` `Maven`
+Java 8 Selenium WebDriver OpenCSV Maven
 
----
+🌐 Web Scraping
 
-## 🌐 [Web Scraping](https://github.com/DanloxBR/WebScraping)
+Projeto desenvolvido para praticar Web Scraping em Java, realizando a extração de informações de páginas HTML.
 
-Projeto desenvolvido para praticar **Web Scraping em Java**, realizando a extração de informações de páginas HTML.
+🛠️ Tecnologias
 
-### 🛠️ Tecnologias
+Java Jsoup Maven
 
-`Java` `Jsoup` `Maven`
+🖥️ Aplicações Desktop
 
----
+🧩 Sudoku
 
-# 🖥️ Aplicações Desktop
+Jogo de Sudoku desenvolvido em Java Swing para praticar lógica de programação, eventos e organização de responsabilidades entre interface e regras de negócio.
 
-## 🧩 [Sudoku](https://github.com/DanloxBR/Sudoku)
+🛠️ Conceitos
 
-Jogo de Sudoku desenvolvido em Java Swing para praticar **lógica de programação, eventos e organização de responsabilidades entre interface e regras de negócio**.
+Java Swing
 
-### 🛠️ Conceitos
+Programação Orientada a Objetos
 
-* Java Swing
-* Programação Orientada a Objetos
-* Eventos e Listeners
-* Clean Code
-* Lógica de programação
+Eventos e Listeners
 
-### 🛠️ Tecnologias
+Clean Code
 
-`Java` `Swing`
+Lógica de programação
 
----
+🛠️ Tecnologias
 
-## 📱 [iPhone — Modelagem POO](https://github.com/DanloxBR/iphone-Music)
+Java Swing
 
-Projeto desenvolvido para representar funcionalidades de um iPhone utilizando conceitos fundamentais de **Programação Orientada a Objetos**.
+📱 iPhone — Modelagem POO
 
-### 🏗️ Conceitos aplicados
+Projeto desenvolvido para representar funcionalidades de um iPhone utilizando conceitos fundamentais de Programação Orientada a Objetos.
 
-* Interfaces
-* Abstração
-* Polimorfismo
-* Organização em pacotes
+🏗️ Conceitos aplicados
 
-### 🛠️ Tecnologia
+Interfaces
 
-`Java 8`
+Abstração
 
----
+Polimorfismo
 
-## ⌨️ [Escape Button](https://github.com/DanloxBR/EscapeButton)
+Organização em pacotes
 
-Projeto desenvolvido para estudar **eventos, desacoplamento e o padrão Observer/Listener** utilizando Java.
+🛠️ Tecnologia
 
-### 🏗️ Conceitos aplicados
+Java 8
 
-* Programação Orientada a Objetos
-* Observer
-* Listener
-* Eventos
-* Desacoplamento
+⌨️ Escape Button
 
-### 🛠️ Tecnologia
+Projeto desenvolvido para estudar eventos, desacoplamento e o padrão Observer/Listener utilizando Java.
 
-`Java`
+🏗️ Conceitos aplicados
 
----
+Programação Orientada a Objetos
 
-## 🧮 [Calculadora](https://github.com/DanloxBR/Calculadora-)
+Observer
+
+Listener
+
+Eventos
+
+Desacoplamento
+
+🛠️ Tecnologia
+
+Java
+
+🧮 Calculadora
 
 Aplicação simples desenvolvida para praticar os fundamentos da linguagem Java e a construção de interfaces e operações básicas.
 
-### 🛠️ Tecnologia
+🛠️ Tecnologia
 
-`Java`
+Java
 
----
+🌐 Frontend
 
-# 🌐 Frontend
+💻 Projeto HTML — Portfólio
 
-## 💻 [Projeto HTML — Portfólio](https://github.com/DanloxBR/HTML)
+Projeto desenvolvido com HTML5 e CSS3, utilizado para praticar construção de páginas web e apresentação de informações profissionais.
 
-Projeto desenvolvido com **HTML5 e CSS3**, utilizado para praticar construção de páginas web e apresentação de informações profissionais.
+🛠️ Tecnologias
 
-### 🛠️ Tecnologias
+HTML5 CSS3
 
-`HTML5` `CSS3`
+🧪 Projetos de Estudo
 
----
-
-# 🧪 Projetos de Estudo
-
-## 📚 [Estudos](https://github.com/DanloxBR/Estudos)
+📚 Estudos
 
 Repositório utilizado para registrar exercícios, experimentos e estudos relacionados ao ecossistema Java.
 
-### 📖 Conteúdos
+📖 Conteúdos
 
-* Java
-* Spring Boot
-* Maven
-* Selenium
-* RPA
-* Clean Code
-* Testes
-* Versionamento
+Java
 
----
+Spring Boot
 
-## 📊 [CSV](https://github.com/DanloxBR/csv)
+Maven
 
-Projeto de automação envolvendo **extração de dados de páginas web e geração de arquivos CSV**, utilizando Selenium e OpenCSV.
+Selenium
 
-### 🛠️ Tecnologias
+RPA
 
-`Java 8` `Selenium WebDriver` `OpenCSV` `Maven`
+Clean Code
 
----
+Testes
 
-# 💵 [Finance](https://github.com/DanloxBR/finance)
+Versionamento
 
-API REST voltada para **controle financeiro**, desenvolvida com Java e Spring Boot.
+📊 CSV
 
-### 🚀 Funcionalidades
+Projeto de automação envolvendo extração de dados de páginas web e geração de arquivos CSV, utilizando Selenium e OpenCSV.
 
-* 💰 Cadastro de receitas
-* 💸 Cadastro de despesas
-* 🗂️ Categorias
-* 📊 Cálculo de saldo
-* ✅ Validação de dados
-* ⚠️ Tratamento global de exceções
-* 📦 Respostas padronizadas
+🛠️ Tecnologias
 
-### 🛠️ Tecnologias
+Java 8 Selenium WebDriver OpenCSV Maven
 
-`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Lombok`
+💵 Finance
 
----
+API REST voltada para controle financeiro, desenvolvida com Java e Spring Boot.
 
-### 🏗️ Conceitos aplicados
+🚀 Funcionalidades
 
-* DTOs
-* Controller
-* Service
-* Repository
-* Validação de dados
-* Spring Security
-* Tratamento de regras de negócio
+💰 Cadastro de receitas
 
-### 🛠️ Tecnologias
+💸 Cadastro de despesas
 
-`Java 8` `Spring Boot` `Spring Data JPA` `Spring Security` `H2` `ViaCEP` `Maven`
+🗂️ Categorias
 
----
+📊 Cálculo de saldo
+
+✅ Validação de dados
+
+⚠️ Tratamento global de exceções
+
+📦 Respostas padronizadas
+
+🛠️ Tecnologias
+
+Java Spring Boot Spring Data JPA PostgreSQL Lombok
+
+🏗️ Conceitos aplicados
+
+DTOs
+
+Controller
+
+Service
+
+Repository
+
+Validação de dados
+
+Spring Security
+
+Tratamento de regras de negócio
+
+🛠️ Tecnologias
+
+Java 8 Spring Boot Spring Data JPA Spring Security H2 ViaCEP Maven
 
 ☕ "Não é sobre conhecer todas as tecnologias. É sobre saber resolver problemas com elas."
