@@ -71,7 +71,8 @@ Meu objetivo é transformar requisitos de negócio em soluções de software efi
 ---
 
 ⭐ Projetos em destaque
-🤖 SupportBot — Bot de Atendimento via Telegram
+
+## 🤖 SupportBot — Bot de Atendimento via Telegram
 
 Bot de atendimento desenvolvido em Java, com o objetivo de automatizar a abertura, consulta e gerenciamento de chamados diretamente pelo Telegram.
 
