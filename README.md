@@ -72,7 +72,7 @@ Meu objetivo é transformar requisitos de negócio em soluções de software efi
 
 ⭐ Projetos em destaque
 
-## 🤖 SupportBot — Bot de Atendimento via Telegram
+## 🤖 SupportBot — Bot de Atendimento via Telegram ##
 
 Bot de atendimento desenvolvido em Java, com o objetivo de automatizar a abertura, consulta e gerenciamento de chamados diretamente pelo Telegram.
 
@@ -84,19 +84,19 @@ Java 8 Spring Boot Telegram Bot API Spring Data JPA PostgreSQL Lombok Maven
 
 Destaques:
 
-**🤖 Atendimento automatizado via Telegram**
-🎫 Abertura de chamados
-🔎 Consulta de chamados
-📋 Gerenciamento de solicitações
-👤 Cadastro e identificação de usuários
-🔐 Controle de sessão do usuário
-📊 Controle de status dos chamados
-🗄️ Persistência com banco de dados
-🧩 Arquitetura Controller → Service → Repository
-🧱 Separação de responsabilidades
-⚙️ Regras de negócio
-🛡️ Tratamento de exceções
-🔄 Fluxo de atendimento automatizado
+* Atendimento automatizado via Telegram
+* Abertura de chamados
+* Consulta de chamados
+* Gerenciamento de solicitações
+* Cadastro e identificação de usuários
+* Controle de sessão do usuário
+* Controle de status dos chamados
+* Persistência com banco de dados
+* Arquitetura Controller → Service → Repository
+* Separação de responsabilidades
+* Regras de negócio
+* Tratamento de exceções
+* Fluxo de atendimento automatizado
 
 Objetivo do projeto:
 
