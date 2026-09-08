@@ -85,8 +85,11 @@ Java 8 Spring Boot Telegram Bot API Spring Data JPA PostgreSQL Lombok Maven
 Destaques:
 
 🤖 Atendimento automatizado via Telegram
+
 🎫 Abertura de chamados
+
 🔎 Consulta de chamados
+
 📋 Gerenciamento de solicitações
 👤 Cadastro e identificação de usuários
 🔐 Controle de sessão do usuário
